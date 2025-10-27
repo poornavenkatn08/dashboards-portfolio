@@ -70,6 +70,10 @@ Dataset: Synthetic financial transaction data (500K records, Jan-Oct 2024)
 **Preview:**  
 ![FinTech Dashboard](https://github.com/poornavenkatn08/dashboards-portfolio/blob/main/Fintech_Dashboard.png?raw=true)
 
+**🔗 Live Demo:**  
+[View on Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes)  
+
+
 **📥 Download:**  
 - [FinTech Dashboard (.twbx)](./FinTech%20Payment%20Analytics%20Dashboard.twbx)
 
