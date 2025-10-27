@@ -1,16 +1,16 @@
 📊 Data Analytics Dashboard Portfolio
 
-Welcome to my portfolio of interactive dashboards created using **Tableau** and **Power BI**, built from real-world datasets to provide data-driven insights. These projects demonstrate my ability to perform end-to-end data analytics, from data wrangling to visualization and storytelling.
+Welcome to my portfolio of interactive dashboards created using  Tableau  and  Power BI , built from real-world datasets to provide data-driven insights. These projects demonstrate my ability to perform end-to-end data analytics, from data wrangling to visualization and storytelling.
 
- 🟣 Tableau Dashboard: Airbnb Market Trends
+ 🟣 Tableau Dashboard: Airbnb Market Trends , FinTech Paymenrs Analytics Dashboard
 
-📁 File:** `AirBnb Full Project.twb`  
-📊 Dataset:** `Tableau Full Project.xlsx`
+📁 File:  `AirBnb Full Project.twb`  
+📊 Dataset:  `Tableau Full Project.xlsx` 
 
-🔍 Description:**  
+🔍 Description:   
 This Tableau dashboard analyzes Airbnb listings to uncover pricing patterns, popular neighborhoods, and host trends. It helps stakeholders identify profitable locations and optimize listings.
 
-✨ Key Features:**
+✨ Key Features: 
 - Interactive heatmaps and bar charts
 - Filters by room type, neighborhood, host type
 - Price vs. availability and review trends
@@ -31,10 +31,10 @@ This Tableau dashboard analyzes Airbnb listings to uncover pricing patterns, pop
 
 🔵 Power BI Dashboard: Healthcare Insights
 
-📁 File:** `Power Bi Dash Board.pbix`  
-📊 Dataset:** `modified_healthcare_dataset.csv`
+📁 File:  `Power Bi Dash Board.pbix`  
+📊 Dataset:  `modified_healthcare_dataset.csv`
 
-🔍 Description:**  
+🔍 Description:   
 This Power BI dashboard visualizes healthcare data to identify disease distribution patterns across different demographics. It’s designed for hospital administrators and policymakers to monitor healthcare trends and improve resource allocation.
 
 ✨ Key Features:
