@@ -4,7 +4,7 @@ Welcome to my portfolio of interactive dashboards created using  Tableau  and  P
 
  🟣 Tableau Dashboard: Airbnb Market Trends , FinTech Paymenrs Analytics Dashboard
 
-📁 File:  `AirBnb Full Project.twb`  
+📁 File:  `AirBnb Full Project.twb`  ,  https://github.com/poornavenkatn08/dashboards-portfolio/edit/main/README.md#:~:text=FinTech%20Payment-,Analytics,-Dashboard.twbx
 📊 Dataset:  `Tableau Full Project.xlsx` 
 
 🔍 Description:   
