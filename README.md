@@ -103,7 +103,7 @@ Designed for healthcare administrators to optimize resources and improve patient
 | Category | Tools / Techniques |
 |-----------|--------------------|
 | **Visualization** | Tableau, Power BI |
-| **Data Preparation** | Excel, Power Query, CSV |
+| **Data Preparation** | Excel, Power Query, SQL,Python |
 | **Analytics** | Calculated Fields, DAX, KPI Metrics |
 | **Storytelling** | Dashboard Interactivity, Design Principles |
 | **Domains** | Hospitality, FinTech, Healthcare |
