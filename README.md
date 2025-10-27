@@ -50,7 +50,7 @@ An interactive dashboard analyzing 500,000+ digital payment transactions across 
 - Top merchant category revenue analysis
 
 🛠️ Technical Skills Demonstrated:
-- Advanced calculated fields (50+ formulas)
+- Advanced calculated fields.
 - LOD expressions for cohort analysis
 - Dual-axis charts with table calculations
 - Interactive filters and dashboard actions
