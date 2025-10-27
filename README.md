@@ -43,20 +43,21 @@ Helps stakeholders identify **profitable locations** and **optimize listing perf
 </a>  
 
 **Description:**  
-A Tableau dashboard for tracking **digital payment transactions**, customer segmentation, and revenue growth.  
-Supports FinTech analysts in identifying key trends and **detecting anomalies in transaction patterns**.
+An interactive dashboard analyzing 500,000+ digital payment transactions across fraud detection, user behavior, and revenue optimization.
 
 **✨ Key Features:**  
-- Monthly and yearly transaction volume trends  
-- Breakdown by payment channel & method  
-- Customer segmentation & churn visualization  
-- Fraud/anomaly detection metrics  
+- Real-time KPI monitoring (TPV, GTV, Take Rate, MAU, Fraud Rate)
+- Transaction volume trends with 7-day moving average
+- Geographic performance analysis with drill-down capability
+- Payment method breakdown and optimization insights
+- Top merchant category revenue analysis 
 
 **🧠 Skills Demonstrated:**  
-- Time-series and categorical visualization in Tableau  
-- Business KPI tracking  
-- Dashboard interactivity & layout design  
-- Analytical storytelling  
+- Advanced calculated fields.
+- LOD expressions for cohort analysis
+- Dual-axis charts with table calculations
+- Interactive filters and dashboard actions
+- Data modeling across multiple tables
 
 📥 [Download Dashboard (.twbx)](./FinTech%20Payment%20Analytics%20Dashboard.twbx)
 
