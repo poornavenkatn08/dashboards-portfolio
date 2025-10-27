@@ -1,125 +1,64 @@
 # 📊 Data Analytics Dashboard Portfolio  
 
-Welcome to my portfolio of **interactive dashboards** built with **Tableau** and **Power BI**, using real-world datasets to uncover business insights.  
-These projects demonstrate end-to-end analytical capabilities — from **data wrangling and transformation** to **visual storytelling and decision-driven dashboards**.
+Welcome to my collection of **interactive dashboards** built using **Tableau** and **Power BI**, designed to turn data into insights.  
+Each project highlights data wrangling, visualization, and analytical storytelling skills.
 
 ---
 
-## 🟣 Tableau Dashboards  
+## 🌐 Dashboard Gallery  
 
-### 1️⃣ Airbnb Market Trends  
-**Files:**  
-- `AirBnb Full Project.twb`  
-- `Tableau Full Project.xlsx`  
+<table>
+<tr>
+<td align="center" width="50%">
+  
+### 🏠 Airbnb Market Trends  
+<a href="https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes">
+<img src="https://github.com/user-attachments/assets/a86a49fb-5e9f-43fe-bfdb-bd26694cbb2f" width="90%" alt="Airbnb Dashboard"/>
+</a>  
+<p><b>Tool:</b> Tableau</p>  
+<p><a href="./AirBnb%20Full%20Project.twb">📥 Download (.twb)</a> | <a href="./Tableau%20Full%20Project.xlsx">📊 Dataset</a></p>
 
-**Description:**  
-This Tableau dashboard analyzes Airbnb listings to uncover pricing patterns, popular neighborhoods, and host trends.  
-It helps stakeholders identify **profitable areas** and **optimize property listings**.
+</td>
+<td align="center" width="50%">
 
-**Key Features:**  
-- Interactive heatmaps & bar charts  
-- Filters for room type, neighborhood, host type  
-- Price vs. availability and review trends  
-- Host performance metrics  
+### 💳 FinTech Payments Analytics  
+<a href="https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes">
+<img src="https://github.com/poornavenkatn08/dashboards-portfolio/blob/main/Fintech_Dashboard.png?raw=true" width="90%" alt="FinTech Dashboard"/>
+</a>  
+<p><b>Tool:</b> Tableau</p>  
+<p><a href="./FinTech%20Payment%20Analytics%20Dashboard.twbx">📥 Download (.twbx)</a></p>
 
-**Preview:**  
-![Airbnb Dashboard](https://github.com/user-attachments/assets/a86a49fb-5e9f-43fe-bfdb-bd26694cbb2f)  
+</td>
+</tr>
+</table>
 
-**🔗 Live Demo:**  
-[View on Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes)  
+<table>
+<tr>
+<td align="center" width="50%">
 
-**📥 Downloads:**  
-- [Airbnb Dashboard (.twb)](./AirBnb%20Full%20Project.twb)  
-- [Excel Dataset (.xlsx)](./Tableau%20Full%20Project.xlsx)  
+### 🏥 Healthcare Insights  
+<a href="./Power%20Bi%20Dash%20Board.pbix">
+<img src="https://github.com/user-attachments/assets/99f15fc0-f084-4234-942f-6c36f46ffe93" width="90%" alt="Healthcare Dashboard"/>
+</a>  
+<p><b>Tool:</b> Power BI</p>  
+<p><a href="./Power%20Bi%20Dash%20Board.pbix">📥 Download (.pbix)</a> | <a href="./modified_healthcare_dataset.csv">📊 Dataset</a></p>
 
----
-
-### 2️⃣ FinTech Payments Analytics  
-**File:** `FinTech Payment Analytics Dashboard.twbx`  
-
-**Description:**  
-FinTech Payment Analytics - Executive Dashboard
-
-An interactive dashboard analyzing 500,000+ digital payment transactions across fraud detection, user behavior, and revenue optimization.
-
-📊 Key Features:
-- Real-time KPI monitoring (TPV, GTV, Take Rate, MAU, Fraud Rate)
-- Transaction volume trends with 7-day moving average
-- Geographic performance analysis with drill-down capability
-- Payment method breakdown and optimization insights
-- Top merchant category revenue analysis
-
-🛠️ Technical Skills Demonstrated:
-- Advanced calculated fields.
-- LOD expressions for cohort analysis
-- Dual-axis charts with table calculations
-- Interactive filters and dashboard actions
-- Data modeling across multiple tables
-
-💡 Key Insights:
-- Credit cards represent 43.4% of payment volume
-- Healthcare and Travel are top revenue categories
-- Transaction volumes show clear weekly patterns
-- Average transaction value: $148.71
-- Fraud detection rate: 1.06%
-
-📈 Tools: Tableau Desktop, Python (data generation), SQL concepts
-
-Dataset: Synthetic financial transaction data (500K records, Jan-Oct 2024)  
-
-**Preview:**  
-![FinTech Dashboard](https://github.com/poornavenkatn08/dashboards-portfolio/blob/main/Fintech_Dashboard.png?raw=true)
-
-**🔗 Live Demo:**  
-[View on Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/vizzes)  
-
-
-**📥 Download:**  
-- [FinTech Dashboard (.twbx)](./FinTech%20Payment%20Analytics%20Dashboard.twbx)
-
----
-
-## 🔵 Power BI Dashboard  
-
-### Healthcare Insights  
-
-**Files:**  
-- `Power Bi Dash Board.pbix`  
-- `modified_healthcare_dataset.csv`  
-
-**Description:**  
-This Power BI dashboard visualizes healthcare data to identify **disease distribution patterns** across demographics.  
-Designed for hospital administrators and policymakers to track healthcare KPIs and optimize resources.
-
-**Key Features:**  
-- Disease prevalence by blood type and gender  
-- Filters for medical condition, admission type, and insurance provider  
-- Length of stay and billing trend analysis  
-- Drill-through pages and dynamic KPIs  
-
-**Preview:**  
-![Hospital Insights](https://github.com/user-attachments/assets/99f15fc0-f084-4234-942f-6c36f46ffe93)  
-
-**📥 Downloads:**  
-- [Power BI Dashboard (.pbix)](./Power%20Bi%20Dash%20Board.pbix)  
-- [CSV Dataset](./modified_healthcare_dataset.csv)
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🧠 Skills Demonstrated  
-
 - Data cleaning & transformation (Excel, Power Query)  
 - Tableau dashboard design & storytelling  
 - Power BI DAX measures and interactivity  
 - KPI visualization & drill-through analysis  
 - Data modeling and relationship mapping  
-- Insight presentation for business stakeholders  
 
 ---
 
 ## 📬 Contact  
-
-Let’s connect! I’m open to collaborations and opportunities in **Data Analytics, Business Intelligence, and Visualization**.  
 
 📧 **Email:** [pvneelakantam@gmail.com](mailto:pvneelakantam@gmail.com)  
 🔗 **LinkedIn:** [linkedin.com/in/pneelakantam](https://www.linkedin.com/in/pneelakantam/)  
