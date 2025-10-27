@@ -1,0 +1,2001 @@
+merchant_id,merchant_name,category,country,signup_date,transaction_volume_tier
+MERCH_00001,Merchant_1,Digital Services,Canada,2024-09-17,Large
+MERCH_00002,Merchant_2,Healthcare,Singapore,2024-05-26,Medium
+MERCH_00003,Merchant_3,Retail,Australia,2024-05-27,Large
+MERCH_00004,Merchant_4,Healthcare,USA,2024-08-21,Small
+MERCH_00005,Merchant_5,Digital Services,Australia,2024-01-04,Large
+MERCH_00006,Merchant_6,Entertainment,UK,2024-05-26,Small
+MERCH_00007,Merchant_7,Entertainment,Canada,2024-03-01,Small
+MERCH_00008,Merchant_8,Transportation,Canada,2024-06-08,Medium
+MERCH_00009,Merchant_9,Food & Dining,France,2024-07-09,Small
+MERCH_00010,Merchant_10,Entertainment,UK,2024-01-19,Small
+MERCH_00011,Merchant_11,Food & Dining,USA,2024-06-17,Small
+MERCH_00012,Merchant_12,Healthcare,Germany,2024-07-16,Small
+MERCH_00013,Merchant_13,Transportation,UK,2024-04-18,Medium
+MERCH_00014,Merchant_14,Utilities,Canada,2024-04-10,Small
+MERCH_00015,Merchant_15,Travel,Canada,2024-09-03,Medium
+MERCH_00016,Merchant_16,Digital Services,Germany,2024-01-21,Medium
+MERCH_00017,Merchant_17,Healthcare,UK,2024-08-06,Small
+MERCH_00018,Merchant_18,Entertainment,Germany,2024-06-20,Small
+MERCH_00019,Merchant_19,Travel,USA,2024-02-24,Enterprise
+MERCH_00020,Merchant_20,Digital Services,USA,2024-02-03,Medium
+MERCH_00021,Merchant_21,Utilities,USA,2024-09-24,Large
+MERCH_00022,Merchant_22,E-commerce,USA,2024-02-23,Small
+MERCH_00023,Merchant_23,Retail,USA,2024-07-20,Medium
+MERCH_00024,Merchant_24,Food & Dining,Germany,2024-03-02,Medium
+MERCH_00025,Merchant_25,E-commerce,India,2024-04-11,Enterprise
+MERCH_00026,Merchant_26,Retail,UAE,2024-09-30,Small
+MERCH_00027,Merchant_27,Food & Dining,Germany,2024-08-13,Medium
+MERCH_00028,Merchant_28,Healthcare,UK,2024-07-05,Medium
+MERCH_00029,Merchant_29,Utilities,India,2024-06-27,Large
+MERCH_00030,Merchant_30,Travel,UK,2024-06-15,Medium
+MERCH_00031,Merchant_31,Transportation,USA,2024-10-15,Small
+MERCH_00032,Merchant_32,Retail,Canada,2024-05-23,Large
+MERCH_00033,Merchant_33,Travel,USA,2024-03-24,Small
+MERCH_00034,Merchant_34,Entertainment,USA,2024-04-01,Large
+MERCH_00035,Merchant_35,Travel,Germany,2024-10-21,Medium
+MERCH_00036,Merchant_36,Healthcare,UK,2024-09-25,Small
+MERCH_00037,Merchant_37,Travel,Canada,2024-02-22,Small
+MERCH_00038,Merchant_38,Travel,India,2024-04-07,Enterprise
+MERCH_00039,Merchant_39,Healthcare,UK,2024-05-06,Medium
+MERCH_00040,Merchant_40,Digital Services,USA,2024-03-18,Medium
+MERCH_00041,Merchant_41,Education,Brazil,2024-05-27,Large
+MERCH_00042,Merchant_42,Healthcare,Canada,2024-02-09,Small
+MERCH_00043,Merchant_43,Entertainment,India,2024-08-23,Small
+MERCH_00044,Merchant_44,Digital Services,USA,2024-08-24,Medium
+MERCH_00045,Merchant_45,Transportation,Canada,2024-02-14,Medium
+MERCH_00046,Merchant_46,Healthcare,Australia,2024-02-11,Enterprise
+MERCH_00047,Merchant_47,Utilities,USA,2024-09-23,Small
+MERCH_00048,Merchant_48,Retail,Germany,2024-01-03,Large
+MERCH_00049,Merchant_49,Food & Dining,Germany,2024-02-25,Medium
+MERCH_00050,Merchant_50,Transportation,Canada,2024-07-12,Large
+MERCH_00051,Merchant_51,E-commerce,USA,2024-08-14,Large
+MERCH_00052,Merchant_52,Education,India,2024-08-23,Large
+MERCH_00053,Merchant_53,Transportation,India,2024-05-30,Small
+MERCH_00054,Merchant_54,Retail,Canada,2024-04-09,Medium
+MERCH_00055,Merchant_55,Entertainment,France,2024-07-13,Medium
+MERCH_00056,Merchant_56,Healthcare,Canada,2024-01-27,Small
+MERCH_00057,Merchant_57,Healthcare,USA,2024-05-15,Medium
+MERCH_00058,Merchant_58,Retail,USA,2024-10-06,Small
+MERCH_00059,Merchant_59,Healthcare,UK,2024-01-02,Small
+MERCH_00060,Merchant_60,Healthcare,Canada,2024-09-23,Small
+MERCH_00061,Merchant_61,Digital Services,Germany,2024-06-18,Enterprise
+MERCH_00062,Merchant_62,Retail,UK,2024-03-20,Medium
+MERCH_00063,Merchant_63,Education,Germany,2024-08-12,Small
+MERCH_00064,Merchant_64,Healthcare,USA,2024-02-20,Small
+MERCH_00065,Merchant_65,Retail,UK,2024-05-12,Small
+MERCH_00066,Merchant_66,Healthcare,USA,2024-04-24,Small
+MERCH_00067,Merchant_67,Healthcare,Australia,2024-07-31,Small
+MERCH_00068,Merchant_68,Food & Dining,UK,2024-10-20,Medium
+MERCH_00069,Merchant_69,Food & Dining,France,2024-05-18,Small
+MERCH_00070,Merchant_70,Utilities,UK,2024-08-28,Enterprise
+MERCH_00071,Merchant_71,Travel,UK,2024-05-09,Small
+MERCH_00072,Merchant_72,Travel,USA,2024-04-15,Small
+MERCH_00073,Merchant_73,Healthcare,USA,2024-06-05,Medium
+MERCH_00074,Merchant_74,Digital Services,UK,2024-09-02,Small
+MERCH_00075,Merchant_75,Digital Services,USA,2024-07-18,Large
+MERCH_00076,Merchant_76,Entertainment,USA,2024-09-21,Small
+MERCH_00077,Merchant_77,Transportation,France,2024-09-30,Large
+MERCH_00078,Merchant_78,Healthcare,Canada,2024-10-25,Large
+MERCH_00079,Merchant_79,E-commerce,UK,2024-04-18,Small
+MERCH_00080,Merchant_80,E-commerce,USA,2024-09-15,Medium
+MERCH_00081,Merchant_81,Utilities,India,2024-08-01,Small
+MERCH_00082,Merchant_82,Healthcare,USA,2024-02-11,Large
+MERCH_00083,Merchant_83,Entertainment,USA,2024-07-19,Small
+MERCH_00084,Merchant_84,Entertainment,India,2024-02-16,Medium
+MERCH_00085,Merchant_85,Entertainment,USA,2024-09-26,Medium
+MERCH_00086,Merchant_86,Travel,USA,2024-09-03,Medium
+MERCH_00087,Merchant_87,Food & Dining,UK,2024-08-23,Large
+MERCH_00088,Merchant_88,Healthcare,USA,2024-07-15,Small
+MERCH_00089,Merchant_89,Utilities,UK,2024-06-06,Small
+MERCH_00090,Merchant_90,E-commerce,USA,2024-06-10,Small
+MERCH_00091,Merchant_91,Travel,USA,2024-09-25,Small
+MERCH_00092,Merchant_92,E-commerce,USA,2024-01-29,Small
+MERCH_00093,Merchant_93,Entertainment,UK,2024-10-03,Small
+MERCH_00094,Merchant_94,Education,Canada,2024-05-29,Small
+MERCH_00095,Merchant_95,Food & Dining,France,2024-04-06,Medium
+MERCH_00096,Merchant_96,Healthcare,France,2024-02-11,Small
+MERCH_00097,Merchant_97,Utilities,Singapore,2024-07-31,Medium
+MERCH_00098,Merchant_98,Digital Services,UK,2024-06-11,Medium
+MERCH_00099,Merchant_99,Transportation,USA,2024-03-24,Large
+MERCH_00100,Merchant_100,Transportation,Germany,2024-02-04,Medium
+MERCH_00101,Merchant_101,Travel,USA,2024-08-16,Medium
+MERCH_00102,Merchant_102,Food & Dining,UK,2024-10-15,Medium
+MERCH_00103,Merchant_103,Education,Brazil,2024-01-19,Small
+MERCH_00104,Merchant_104,Utilities,Brazil,2024-01-15,Medium
+MERCH_00105,Merchant_105,Retail,USA,2024-06-13,Small
+MERCH_00106,Merchant_106,Education,Germany,2024-04-09,Small
+MERCH_00107,Merchant_107,Travel,Australia,2024-02-03,Medium
+MERCH_00108,Merchant_108,Healthcare,Brazil,2024-03-09,Medium
+MERCH_00109,Merchant_109,Utilities,Canada,2024-08-02,Small
+MERCH_00110,Merchant_110,Entertainment,Germany,2024-01-11,Small
+MERCH_00111,Merchant_111,Healthcare,USA,2024-07-08,Small
+MERCH_00112,Merchant_112,Digital Services,USA,2024-06-12,Large
+MERCH_00113,Merchant_113,Education,USA,2024-09-07,Small
+MERCH_00114,Merchant_114,Healthcare,UK,2024-06-02,Small
+MERCH_00115,Merchant_115,Retail,India,2024-02-01,Small
+MERCH_00116,Merchant_116,Entertainment,USA,2024-03-12,Small
+MERCH_00117,Merchant_117,Education,UK,2024-09-29,Enterprise
+MERCH_00118,Merchant_118,Entertainment,Germany,2024-06-03,Medium
+MERCH_00119,Merchant_119,Travel,Australia,2024-06-21,Medium
+MERCH_00120,Merchant_120,Transportation,Australia,2024-07-07,Large
+MERCH_00121,Merchant_121,Transportation,USA,2024-10-02,Medium
+MERCH_00122,Merchant_122,Travel,Singapore,2024-08-14,Small
+MERCH_00123,Merchant_123,Utilities,France,2024-08-04,Small
+MERCH_00124,Merchant_124,Healthcare,Brazil,2024-10-20,Small
+MERCH_00125,Merchant_125,Transportation,USA,2024-06-13,Medium
+MERCH_00126,Merchant_126,Entertainment,USA,2024-07-10,Medium
+MERCH_00127,Merchant_127,Travel,Brazil,2024-10-16,Small
+MERCH_00128,Merchant_128,Travel,UK,2024-02-18,Large
+MERCH_00129,Merchant_129,Healthcare,Germany,2024-03-28,Medium
+MERCH_00130,Merchant_130,Entertainment,France,2024-07-31,Enterprise
+MERCH_00131,Merchant_131,Healthcare,USA,2024-09-21,Small
+MERCH_00132,Merchant_132,Utilities,USA,2024-02-16,Small
+MERCH_00133,Merchant_133,Digital Services,UAE,2024-04-26,Small
+MERCH_00134,Merchant_134,Food & Dining,Singapore,2024-01-18,Medium
+MERCH_00135,Merchant_135,Healthcare,India,2024-09-10,Small
+MERCH_00136,Merchant_136,Digital Services,USA,2024-09-22,Medium
+MERCH_00137,Merchant_137,Entertainment,USA,2024-05-03,Medium
+MERCH_00138,Merchant_138,Food & Dining,Canada,2024-08-18,Medium
+MERCH_00139,Merchant_139,Entertainment,USA,2024-04-17,Medium
+MERCH_00140,Merchant_140,E-commerce,UK,2024-02-25,Large
+MERCH_00141,Merchant_141,Food & Dining,UK,2024-09-23,Medium
+MERCH_00142,Merchant_142,Entertainment,USA,2024-05-03,Small
+MERCH_00143,Merchant_143,Food & Dining,Australia,2024-06-27,Small
+MERCH_00144,Merchant_144,Entertainment,Germany,2024-10-24,Small
+MERCH_00145,Merchant_145,Utilities,USA,2024-06-06,Small
+MERCH_00146,Merchant_146,Entertainment,USA,2024-02-25,Enterprise
+MERCH_00147,Merchant_147,Entertainment,USA,2024-03-28,Medium
+MERCH_00148,Merchant_148,Utilities,USA,2024-04-30,Small
+MERCH_00149,Merchant_149,Entertainment,USA,2024-05-13,Small
+MERCH_00150,Merchant_150,Entertainment,India,2024-06-16,Large
+MERCH_00151,Merchant_151,Retail,Brazil,2024-10-25,Large
+MERCH_00152,Merchant_152,Digital Services,USA,2024-03-29,Medium
+MERCH_00153,Merchant_153,Utilities,Germany,2024-04-13,Small
+MERCH_00154,Merchant_154,Healthcare,Canada,2024-03-31,Small
+MERCH_00155,Merchant_155,Digital Services,USA,2024-07-08,Small
+MERCH_00156,Merchant_156,Utilities,Brazil,2024-09-21,Small
+MERCH_00157,Merchant_157,Digital Services,Canada,2024-01-29,Medium
+MERCH_00158,Merchant_158,Retail,Australia,2024-04-02,Large
+MERCH_00159,Merchant_159,Travel,USA,2024-05-27,Small
+MERCH_00160,Merchant_160,Education,Canada,2024-06-26,Small
+MERCH_00161,Merchant_161,Retail,Germany,2024-06-12,Medium
+MERCH_00162,Merchant_162,Transportation,UAE,2024-09-12,Medium
+MERCH_00163,Merchant_163,Education,UK,2024-02-09,Small
+MERCH_00164,Merchant_164,Utilities,USA,2024-02-22,Medium
+MERCH_00165,Merchant_165,Education,Brazil,2024-07-15,Large
+MERCH_00166,Merchant_166,Retail,Canada,2024-04-01,Small
+MERCH_00167,Merchant_167,Digital Services,Brazil,2024-08-26,Large
+MERCH_00168,Merchant_168,Transportation,France,2024-05-18,Medium
+MERCH_00169,Merchant_169,Retail,Germany,2024-04-16,Small
+MERCH_00170,Merchant_170,Healthcare,India,2024-06-19,Large
+MERCH_00171,Merchant_171,Digital Services,India,2024-02-22,Small
+MERCH_00172,Merchant_172,Healthcare,USA,2024-05-24,Small
+MERCH_00173,Merchant_173,Education,USA,2024-03-05,Medium
+MERCH_00174,Merchant_174,Travel,Brazil,2024-09-20,Large
+MERCH_00175,Merchant_175,Transportation,India,2024-07-29,Small
+MERCH_00176,Merchant_176,Transportation,Germany,2024-04-12,Small
+MERCH_00177,Merchant_177,Education,France,2024-03-09,Small
+MERCH_00178,Merchant_178,Travel,UK,2024-09-10,Enterprise
+MERCH_00179,Merchant_179,Retail,USA,2024-01-29,Small
+MERCH_00180,Merchant_180,Education,USA,2024-03-19,Medium
+MERCH_00181,Merchant_181,E-commerce,USA,2024-04-15,Medium
+MERCH_00182,Merchant_182,Digital Services,USA,2024-02-21,Small
+MERCH_00183,Merchant_183,Transportation,Australia,2024-08-25,Small
+MERCH_00184,Merchant_184,Healthcare,Germany,2024-05-11,Small
+MERCH_00185,Merchant_185,Digital Services,France,2024-01-18,Large
+MERCH_00186,Merchant_186,Travel,USA,2024-03-07,Small
+MERCH_00187,Merchant_187,Digital Services,Germany,2024-09-25,Small
+MERCH_00188,Merchant_188,Digital Services,USA,2024-02-08,Small
+MERCH_00189,Merchant_189,Healthcare,UK,2024-01-23,Medium
+MERCH_00190,Merchant_190,Entertainment,Germany,2024-07-13,Small
+MERCH_00191,Merchant_191,Travel,Australia,2024-01-02,Small
+MERCH_00192,Merchant_192,Entertainment,USA,2024-09-05,Small
+MERCH_00193,Merchant_193,Travel,USA,2024-07-17,Small
+MERCH_00194,Merchant_194,Food & Dining,UAE,2024-04-28,Small
+MERCH_00195,Merchant_195,Education,Germany,2024-05-31,Large
+MERCH_00196,Merchant_196,Utilities,Canada,2024-05-20,Medium
+MERCH_00197,Merchant_197,Entertainment,India,2024-04-16,Enterprise
+MERCH_00198,Merchant_198,Entertainment,USA,2024-04-16,Medium
+MERCH_00199,Merchant_199,Travel,Canada,2024-05-23,Large
+MERCH_00200,Merchant_200,Transportation,France,2024-07-31,Medium
+MERCH_00201,Merchant_201,Retail,USA,2024-01-02,Small
+MERCH_00202,Merchant_202,Travel,USA,2024-04-02,Large
+MERCH_00203,Merchant_203,Utilities,USA,2024-07-11,Small
+MERCH_00204,Merchant_204,Travel,USA,2024-04-16,Large
+MERCH_00205,Merchant_205,Food & Dining,Canada,2024-05-05,Medium
+MERCH_00206,Merchant_206,Digital Services,Canada,2024-07-06,Small
+MERCH_00207,Merchant_207,Transportation,Brazil,2024-07-22,Large
+MERCH_00208,Merchant_208,Travel,Brazil,2024-05-22,Small
+MERCH_00209,Merchant_209,Utilities,Germany,2024-02-07,Small
+MERCH_00210,Merchant_210,Travel,USA,2024-07-25,Enterprise
+MERCH_00211,Merchant_211,E-commerce,USA,2024-04-01,Medium
+MERCH_00212,Merchant_212,Transportation,UK,2024-10-07,Small
+MERCH_00213,Merchant_213,Travel,UK,2024-09-10,Small
+MERCH_00214,Merchant_214,Retail,India,2024-01-20,Medium
+MERCH_00215,Merchant_215,Food & Dining,France,2024-03-28,Small
+MERCH_00216,Merchant_216,Entertainment,UK,2024-06-18,Small
+MERCH_00217,Merchant_217,Travel,USA,2024-03-18,Large
+MERCH_00218,Merchant_218,Travel,USA,2024-02-18,Small
+MERCH_00219,Merchant_219,Retail,Brazil,2024-07-03,Medium
+MERCH_00220,Merchant_220,Food & Dining,Australia,2024-02-15,Small
+MERCH_00221,Merchant_221,Utilities,UK,2024-05-17,Small
+MERCH_00222,Merchant_222,Transportation,USA,2024-04-26,Medium
+MERCH_00223,Merchant_223,Healthcare,Singapore,2024-06-28,Small
+MERCH_00224,Merchant_224,Retail,Singapore,2024-02-18,Small
+MERCH_00225,Merchant_225,Utilities,USA,2024-08-31,Large
+MERCH_00226,Merchant_226,Entertainment,Brazil,2024-03-07,Medium
+MERCH_00227,Merchant_227,Transportation,France,2024-04-11,Large
+MERCH_00228,Merchant_228,Entertainment,France,2024-07-14,Small
+MERCH_00229,Merchant_229,Healthcare,UK,2024-09-16,Small
+MERCH_00230,Merchant_230,Retail,UK,2024-07-06,Enterprise
+MERCH_00231,Merchant_231,Healthcare,USA,2024-01-23,Small
+MERCH_00232,Merchant_232,E-commerce,UK,2024-05-14,Small
+MERCH_00233,Merchant_233,Entertainment,Canada,2024-06-08,Large
+MERCH_00234,Merchant_234,Utilities,USA,2024-10-01,Small
+MERCH_00235,Merchant_235,Healthcare,Germany,2024-07-05,Medium
+MERCH_00236,Merchant_236,E-commerce,USA,2024-03-27,Medium
+MERCH_00237,Merchant_237,Transportation,USA,2024-07-17,Small
+MERCH_00238,Merchant_238,Digital Services,Canada,2024-01-27,Large
+MERCH_00239,Merchant_239,Entertainment,USA,2024-03-13,Small
+MERCH_00240,Merchant_240,Travel,Germany,2024-05-05,Small
+MERCH_00241,Merchant_241,E-commerce,Canada,2024-06-19,Small
+MERCH_00242,Merchant_242,Education,Brazil,2024-05-27,Small
+MERCH_00243,Merchant_243,Healthcare,Singapore,2024-08-28,Medium
+MERCH_00244,Merchant_244,Entertainment,USA,2024-03-19,Medium
+MERCH_00245,Merchant_245,Food & Dining,UK,2024-03-27,Small
+MERCH_00246,Merchant_246,Retail,Singapore,2024-05-11,Small
+MERCH_00247,Merchant_247,Digital Services,USA,2024-01-19,Medium
+MERCH_00248,Merchant_248,Food & Dining,France,2024-06-12,Large
+MERCH_00249,Merchant_249,Retail,Australia,2024-07-03,Medium
+MERCH_00250,Merchant_250,Education,Canada,2024-05-01,Medium
+MERCH_00251,Merchant_251,Retail,Canada,2024-01-24,Medium
+MERCH_00252,Merchant_252,Utilities,USA,2024-07-26,Medium
+MERCH_00253,Merchant_253,Transportation,Australia,2024-02-09,Medium
+MERCH_00254,Merchant_254,Retail,Singapore,2024-02-29,Small
+MERCH_00255,Merchant_255,Entertainment,Australia,2024-04-25,Large
+MERCH_00256,Merchant_256,Food & Dining,UK,2024-01-09,Small
+MERCH_00257,Merchant_257,E-commerce,UK,2024-01-03,Large
+MERCH_00258,Merchant_258,Digital Services,USA,2024-05-16,Large
+MERCH_00259,Merchant_259,Digital Services,Canada,2024-07-06,Enterprise
+MERCH_00260,Merchant_260,Digital Services,Germany,2024-09-28,Large
+MERCH_00261,Merchant_261,Transportation,USA,2024-03-10,Small
+MERCH_00262,Merchant_262,Entertainment,Canada,2024-08-30,Small
+MERCH_00263,Merchant_263,Utilities,UK,2024-07-05,Large
+MERCH_00264,Merchant_264,Travel,India,2024-03-25,Large
+MERCH_00265,Merchant_265,Entertainment,France,2024-04-10,Small
+MERCH_00266,Merchant_266,Utilities,Canada,2024-05-17,Small
+MERCH_00267,Merchant_267,Food & Dining,Canada,2024-01-27,Small
+MERCH_00268,Merchant_268,Retail,Australia,2024-09-16,Small
+MERCH_00269,Merchant_269,Education,Brazil,2024-09-08,Medium
+MERCH_00270,Merchant_270,Retail,UK,2024-01-19,Small
+MERCH_00271,Merchant_271,Travel,USA,2024-07-10,Small
+MERCH_00272,Merchant_272,Digital Services,UK,2024-08-02,Large
+MERCH_00273,Merchant_273,Utilities,Germany,2024-10-14,Medium
+MERCH_00274,Merchant_274,Retail,Australia,2024-04-25,Small
+MERCH_00275,Merchant_275,Digital Services,UK,2024-04-22,Small
+MERCH_00276,Merchant_276,Food & Dining,USA,2024-06-20,Medium
+MERCH_00277,Merchant_277,Entertainment,France,2024-07-06,Small
+MERCH_00278,Merchant_278,E-commerce,USA,2024-07-02,Medium
+MERCH_00279,Merchant_279,Transportation,France,2024-07-24,Medium
+MERCH_00280,Merchant_280,Utilities,Canada,2024-05-02,Small
+MERCH_00281,Merchant_281,Digital Services,Canada,2024-09-17,Small
+MERCH_00282,Merchant_282,Entertainment,Canada,2024-07-08,Medium
+MERCH_00283,Merchant_283,Retail,Germany,2024-10-11,Small
+MERCH_00284,Merchant_284,Retail,France,2024-02-02,Large
+MERCH_00285,Merchant_285,E-commerce,Germany,2024-09-26,Small
+MERCH_00286,Merchant_286,E-commerce,USA,2024-03-19,Enterprise
+MERCH_00287,Merchant_287,Healthcare,Germany,2024-10-11,Small
+MERCH_00288,Merchant_288,Education,India,2024-05-13,Medium
+MERCH_00289,Merchant_289,Travel,Germany,2024-04-17,Small
+MERCH_00290,Merchant_290,Utilities,Australia,2024-10-15,Small
+MERCH_00291,Merchant_291,Transportation,UK,2024-08-12,Small
+MERCH_00292,Merchant_292,Travel,Singapore,2024-06-01,Large
+MERCH_00293,Merchant_293,Retail,France,2024-09-28,Large
+MERCH_00294,Merchant_294,Travel,USA,2024-07-18,Large
+MERCH_00295,Merchant_295,Education,USA,2024-10-23,Small
+MERCH_00296,Merchant_296,Retail,USA,2024-10-13,Small
+MERCH_00297,Merchant_297,Retail,UK,2024-01-22,Small
+MERCH_00298,Merchant_298,Entertainment,USA,2024-01-23,Small
+MERCH_00299,Merchant_299,Entertainment,France,2024-06-25,Small
+MERCH_00300,Merchant_300,Retail,USA,2024-07-03,Small
+MERCH_00301,Merchant_301,Entertainment,USA,2024-09-07,Small
+MERCH_00302,Merchant_302,Healthcare,USA,2024-04-16,Large
+MERCH_00303,Merchant_303,Entertainment,USA,2024-04-13,Small
+MERCH_00304,Merchant_304,Food & Dining,USA,2024-09-25,Medium
+MERCH_00305,Merchant_305,Food & Dining,Germany,2024-01-02,Small
+MERCH_00306,Merchant_306,E-commerce,UK,2024-08-23,Small
+MERCH_00307,Merchant_307,Transportation,UK,2024-03-05,Medium
+MERCH_00308,Merchant_308,Retail,UK,2024-07-26,Medium
+MERCH_00309,Merchant_309,Education,India,2024-07-17,Small
+MERCH_00310,Merchant_310,E-commerce,USA,2024-01-01,Large
+MERCH_00311,Merchant_311,Healthcare,Brazil,2024-10-22,Small
+MERCH_00312,Merchant_312,Digital Services,Brazil,2024-05-27,Large
+MERCH_00313,Merchant_313,Digital Services,France,2024-01-06,Small
+MERCH_00314,Merchant_314,Food & Dining,Singapore,2024-06-04,Small
+MERCH_00315,Merchant_315,Utilities,USA,2024-05-08,Medium
+MERCH_00316,Merchant_316,Food & Dining,UK,2024-08-21,Medium
+MERCH_00317,Merchant_317,Healthcare,USA,2024-07-08,Medium
+MERCH_00318,Merchant_318,E-commerce,USA,2024-01-14,Large
+MERCH_00319,Merchant_319,Healthcare,UAE,2024-02-22,Small
+MERCH_00320,Merchant_320,Entertainment,USA,2024-08-20,Small
+MERCH_00321,Merchant_321,Transportation,USA,2024-06-10,Small
+MERCH_00322,Merchant_322,Retail,USA,2024-01-08,Small
+MERCH_00323,Merchant_323,Digital Services,Germany,2024-06-19,Small
+MERCH_00324,Merchant_324,Healthcare,Canada,2024-07-30,Small
+MERCH_00325,Merchant_325,Travel,USA,2024-07-19,Medium
+MERCH_00326,Merchant_326,Healthcare,Canada,2024-06-26,Large
+MERCH_00327,Merchant_327,Entertainment,USA,2024-06-14,Small
+MERCH_00328,Merchant_328,E-commerce,France,2024-09-21,Small
+MERCH_00329,Merchant_329,Entertainment,USA,2024-01-20,Small
+MERCH_00330,Merchant_330,Digital Services,USA,2024-07-22,Small
+MERCH_00331,Merchant_331,E-commerce,Canada,2024-06-14,Small
+MERCH_00332,Merchant_332,Utilities,UK,2024-09-30,Small
+MERCH_00333,Merchant_333,Healthcare,UK,2024-07-22,Small
+MERCH_00334,Merchant_334,Education,UAE,2024-09-11,Small
+MERCH_00335,Merchant_335,Food & Dining,Australia,2024-03-09,Small
+MERCH_00336,Merchant_336,Travel,Canada,2024-03-24,Small
+MERCH_00337,Merchant_337,E-commerce,UK,2024-04-13,Medium
+MERCH_00338,Merchant_338,Entertainment,USA,2024-03-27,Small
+MERCH_00339,Merchant_339,Entertainment,Australia,2024-05-28,Small
+MERCH_00340,Merchant_340,Retail,USA,2024-04-03,Small
+MERCH_00341,Merchant_341,Digital Services,France,2024-01-22,Small
+MERCH_00342,Merchant_342,Entertainment,India,2024-05-09,Medium
+MERCH_00343,Merchant_343,Retail,USA,2024-05-02,Enterprise
+MERCH_00344,Merchant_344,Entertainment,USA,2024-01-10,Medium
+MERCH_00345,Merchant_345,Food & Dining,India,2024-02-01,Small
+MERCH_00346,Merchant_346,Digital Services,Germany,2024-07-23,Small
+MERCH_00347,Merchant_347,Retail,UK,2024-05-02,Medium
+MERCH_00348,Merchant_348,Digital Services,USA,2024-02-02,Small
+MERCH_00349,Merchant_349,Healthcare,USA,2024-10-20,Medium
+MERCH_00350,Merchant_350,Utilities,UK,2024-02-23,Small
+MERCH_00351,Merchant_351,Food & Dining,USA,2024-01-20,Large
+MERCH_00352,Merchant_352,E-commerce,Canada,2024-08-07,Small
+MERCH_00353,Merchant_353,Utilities,Australia,2024-10-15,Small
+MERCH_00354,Merchant_354,Food & Dining,France,2024-08-28,Small
+MERCH_00355,Merchant_355,Retail,Brazil,2024-02-21,Large
+MERCH_00356,Merchant_356,Retail,USA,2024-05-06,Medium
+MERCH_00357,Merchant_357,Utilities,France,2024-07-14,Medium
+MERCH_00358,Merchant_358,Utilities,Australia,2024-05-03,Small
+MERCH_00359,Merchant_359,E-commerce,Canada,2024-06-23,Small
+MERCH_00360,Merchant_360,Food & Dining,USA,2024-02-10,Small
+MERCH_00361,Merchant_361,Food & Dining,Germany,2024-02-16,Large
+MERCH_00362,Merchant_362,Healthcare,Germany,2024-06-03,Small
+MERCH_00363,Merchant_363,Transportation,Canada,2024-03-16,Medium
+MERCH_00364,Merchant_364,Healthcare,USA,2024-01-26,Medium
+MERCH_00365,Merchant_365,Food & Dining,Australia,2024-03-19,Medium
+MERCH_00366,Merchant_366,Entertainment,Canada,2024-10-07,Medium
+MERCH_00367,Merchant_367,Retail,UK,2024-07-22,Small
+MERCH_00368,Merchant_368,Transportation,Germany,2024-02-25,Large
+MERCH_00369,Merchant_369,Retail,Brazil,2024-03-09,Enterprise
+MERCH_00370,Merchant_370,Food & Dining,India,2024-03-14,Small
+MERCH_00371,Merchant_371,Digital Services,USA,2024-04-20,Large
+MERCH_00372,Merchant_372,Education,UK,2024-03-21,Medium
+MERCH_00373,Merchant_373,E-commerce,USA,2024-10-10,Large
+MERCH_00374,Merchant_374,Food & Dining,UK,2024-07-29,Large
+MERCH_00375,Merchant_375,Transportation,USA,2024-03-02,Large
+MERCH_00376,Merchant_376,Retail,Canada,2024-05-18,Large
+MERCH_00377,Merchant_377,Food & Dining,UK,2024-01-02,Small
+MERCH_00378,Merchant_378,Digital Services,Canada,2024-03-08,Small
+MERCH_00379,Merchant_379,Utilities,India,2024-05-27,Medium
+MERCH_00380,Merchant_380,Entertainment,Australia,2024-06-17,Large
+MERCH_00381,Merchant_381,Digital Services,UK,2024-06-01,Medium
+MERCH_00382,Merchant_382,Retail,USA,2024-03-10,Medium
+MERCH_00383,Merchant_383,Education,Canada,2024-03-15,Small
+MERCH_00384,Merchant_384,Travel,UK,2024-05-13,Small
+MERCH_00385,Merchant_385,Education,Brazil,2024-03-20,Small
+MERCH_00386,Merchant_386,Travel,UAE,2024-03-28,Small
+MERCH_00387,Merchant_387,Utilities,Brazil,2024-05-27,Small
+MERCH_00388,Merchant_388,Utilities,USA,2024-05-02,Small
+MERCH_00389,Merchant_389,Education,Australia,2024-01-12,Large
+MERCH_00390,Merchant_390,Healthcare,USA,2024-03-17,Medium
+MERCH_00391,Merchant_391,Retail,Australia,2024-04-28,Small
+MERCH_00392,Merchant_392,Travel,Canada,2024-03-08,Medium
+MERCH_00393,Merchant_393,Transportation,USA,2024-01-29,Large
+MERCH_00394,Merchant_394,Healthcare,Australia,2024-01-08,Medium
+MERCH_00395,Merchant_395,Food & Dining,Canada,2024-01-14,Large
+MERCH_00396,Merchant_396,Digital Services,UK,2024-02-19,Enterprise
+MERCH_00397,Merchant_397,Entertainment,USA,2024-04-07,Large
+MERCH_00398,Merchant_398,Food & Dining,USA,2024-03-07,Medium
+MERCH_00399,Merchant_399,Retail,Germany,2024-08-17,Large
+MERCH_00400,Merchant_400,E-commerce,Australia,2024-09-26,Small
+MERCH_00401,Merchant_401,Digital Services,UK,2024-03-28,Small
+MERCH_00402,Merchant_402,Travel,USA,2024-10-05,Small
+MERCH_00403,Merchant_403,Digital Services,Brazil,2024-03-23,Enterprise
+MERCH_00404,Merchant_404,Food & Dining,Canada,2024-05-15,Medium
+MERCH_00405,Merchant_405,E-commerce,USA,2024-04-30,Large
+MERCH_00406,Merchant_406,Healthcare,USA,2024-06-19,Medium
+MERCH_00407,Merchant_407,Utilities,UK,2024-02-01,Medium
+MERCH_00408,Merchant_408,Education,India,2024-09-07,Medium
+MERCH_00409,Merchant_409,Digital Services,Germany,2024-10-17,Medium
+MERCH_00410,Merchant_410,Digital Services,USA,2024-02-19,Small
+MERCH_00411,Merchant_411,Retail,France,2024-04-29,Small
+MERCH_00412,Merchant_412,Transportation,USA,2024-06-20,Small
+MERCH_00413,Merchant_413,Entertainment,UK,2024-04-27,Small
+MERCH_00414,Merchant_414,Travel,USA,2024-03-23,Small
+MERCH_00415,Merchant_415,Utilities,UAE,2024-06-14,Enterprise
+MERCH_00416,Merchant_416,Education,France,2024-07-13,Medium
+MERCH_00417,Merchant_417,Education,USA,2024-02-29,Large
+MERCH_00418,Merchant_418,Entertainment,USA,2024-09-05,Small
+MERCH_00419,Merchant_419,Healthcare,India,2024-07-29,Medium
+MERCH_00420,Merchant_420,Transportation,Canada,2024-04-04,Small
+MERCH_00421,Merchant_421,Digital Services,Germany,2024-05-23,Medium
+MERCH_00422,Merchant_422,Healthcare,UK,2024-09-22,Large
+MERCH_00423,Merchant_423,Travel,Germany,2024-05-20,Small
+MERCH_00424,Merchant_424,Retail,Brazil,2024-07-27,Small
+MERCH_00425,Merchant_425,Digital Services,Singapore,2024-09-06,Medium
+MERCH_00426,Merchant_426,Digital Services,USA,2024-07-11,Large
+MERCH_00427,Merchant_427,Travel,USA,2024-05-26,Medium
+MERCH_00428,Merchant_428,Entertainment,UK,2024-01-29,Large
+MERCH_00429,Merchant_429,Utilities,Canada,2024-10-02,Small
+MERCH_00430,Merchant_430,Transportation,Brazil,2024-08-20,Small
+MERCH_00431,Merchant_431,Utilities,USA,2024-08-22,Small
+MERCH_00432,Merchant_432,Education,UK,2024-10-23,Enterprise
+MERCH_00433,Merchant_433,Transportation,Canada,2024-07-04,Small
+MERCH_00434,Merchant_434,Education,Canada,2024-04-20,Medium
+MERCH_00435,Merchant_435,Education,USA,2024-07-11,Medium
+MERCH_00436,Merchant_436,Travel,Canada,2024-02-05,Small
+MERCH_00437,Merchant_437,Travel,France,2024-05-20,Small
+MERCH_00438,Merchant_438,Food & Dining,UK,2024-01-02,Medium
+MERCH_00439,Merchant_439,Healthcare,USA,2024-10-09,Medium
+MERCH_00440,Merchant_440,Travel,Canada,2024-04-06,Small
+MERCH_00441,Merchant_441,Utilities,UK,2024-01-01,Small
+MERCH_00442,Merchant_442,Travel,USA,2024-08-26,Medium
+MERCH_00443,Merchant_443,E-commerce,USA,2024-01-21,Small
+MERCH_00444,Merchant_444,Utilities,France,2024-01-28,Small
+MERCH_00445,Merchant_445,Food & Dining,USA,2024-07-19,Medium
+MERCH_00446,Merchant_446,Retail,Canada,2024-05-05,Large
+MERCH_00447,Merchant_447,E-commerce,Germany,2024-05-01,Enterprise
+MERCH_00448,Merchant_448,Travel,USA,2024-07-11,Small
+MERCH_00449,Merchant_449,Utilities,UK,2024-01-29,Medium
+MERCH_00450,Merchant_450,E-commerce,Canada,2024-03-06,Small
+MERCH_00451,Merchant_451,Travel,USA,2024-09-05,Medium
+MERCH_00452,Merchant_452,Food & Dining,Singapore,2024-04-06,Small
+MERCH_00453,Merchant_453,Education,Australia,2024-03-03,Medium
+MERCH_00454,Merchant_454,Digital Services,USA,2024-06-20,Enterprise
+MERCH_00455,Merchant_455,Education,USA,2024-08-04,Medium
+MERCH_00456,Merchant_456,Retail,USA,2024-08-28,Medium
+MERCH_00457,Merchant_457,Digital Services,Australia,2024-03-24,Small
+MERCH_00458,Merchant_458,Food & Dining,USA,2024-08-03,Small
+MERCH_00459,Merchant_459,E-commerce,USA,2024-02-05,Large
+MERCH_00460,Merchant_460,Digital Services,India,2024-09-07,Small
+MERCH_00461,Merchant_461,E-commerce,Germany,2024-04-11,Large
+MERCH_00462,Merchant_462,Food & Dining,Brazil,2024-08-07,Small
+MERCH_00463,Merchant_463,Travel,UAE,2024-04-05,Small
+MERCH_00464,Merchant_464,Retail,USA,2024-03-15,Large
+MERCH_00465,Merchant_465,Digital Services,India,2024-05-29,Enterprise
+MERCH_00466,Merchant_466,Digital Services,Australia,2024-06-13,Small
+MERCH_00467,Merchant_467,Retail,USA,2024-10-06,Medium
+MERCH_00468,Merchant_468,Utilities,USA,2024-10-19,Large
+MERCH_00469,Merchant_469,Food & Dining,USA,2024-08-28,Medium
+MERCH_00470,Merchant_470,Digital Services,Brazil,2024-08-18,Small
+MERCH_00471,Merchant_471,Transportation,Germany,2024-08-20,Medium
+MERCH_00472,Merchant_472,Entertainment,USA,2024-04-10,Large
+MERCH_00473,Merchant_473,Healthcare,USA,2024-10-05,Small
+MERCH_00474,Merchant_474,Transportation,UK,2024-04-03,Small
+MERCH_00475,Merchant_475,Digital Services,Singapore,2024-06-02,Small
+MERCH_00476,Merchant_476,Retail,UK,2024-04-09,Small
+MERCH_00477,Merchant_477,Education,Singapore,2024-09-14,Medium
+MERCH_00478,Merchant_478,Education,France,2024-03-20,Small
+MERCH_00479,Merchant_479,Travel,Canada,2024-02-02,Medium
+MERCH_00480,Merchant_480,Utilities,USA,2024-05-23,Small
+MERCH_00481,Merchant_481,Entertainment,USA,2024-08-09,Medium
+MERCH_00482,Merchant_482,Education,Germany,2024-03-26,Small
+MERCH_00483,Merchant_483,Healthcare,USA,2024-03-22,Small
+MERCH_00484,Merchant_484,Digital Services,USA,2024-03-25,Small
+MERCH_00485,Merchant_485,Retail,USA,2024-04-05,Small
+MERCH_00486,Merchant_486,Retail,Brazil,2024-03-23,Small
+MERCH_00487,Merchant_487,Entertainment,USA,2024-09-28,Small
+MERCH_00488,Merchant_488,Entertainment,France,2024-04-24,Medium
+MERCH_00489,Merchant_489,E-commerce,UK,2024-04-10,Small
+MERCH_00490,Merchant_490,Education,USA,2024-09-24,Small
+MERCH_00491,Merchant_491,Entertainment,France,2024-02-12,Medium
+MERCH_00492,Merchant_492,Education,Singapore,2024-04-10,Medium
+MERCH_00493,Merchant_493,Retail,Australia,2024-09-13,Large
+MERCH_00494,Merchant_494,Entertainment,USA,2024-06-15,Large
+MERCH_00495,Merchant_495,Food & Dining,India,2024-03-31,Large
+MERCH_00496,Merchant_496,Transportation,UK,2024-03-24,Medium
+MERCH_00497,Merchant_497,Food & Dining,Australia,2024-04-21,Enterprise
+MERCH_00498,Merchant_498,Entertainment,Brazil,2024-06-21,Medium
+MERCH_00499,Merchant_499,Digital Services,Canada,2024-01-15,Medium
+MERCH_00500,Merchant_500,Digital Services,USA,2024-07-16,Enterprise
+MERCH_00501,Merchant_501,Digital Services,UK,2024-03-15,Small
+MERCH_00502,Merchant_502,Entertainment,UK,2024-09-05,Enterprise
+MERCH_00503,Merchant_503,Utilities,USA,2024-01-15,Small
+MERCH_00504,Merchant_504,Food & Dining,India,2024-10-24,Medium
+MERCH_00505,Merchant_505,Healthcare,Canada,2024-05-29,Small
+MERCH_00506,Merchant_506,Utilities,USA,2024-01-22,Small
+MERCH_00507,Merchant_507,Utilities,USA,2024-02-19,Medium
+MERCH_00508,Merchant_508,Food & Dining,USA,2024-05-22,Medium
+MERCH_00509,Merchant_509,E-commerce,India,2024-06-02,Small
+MERCH_00510,Merchant_510,Entertainment,Germany,2024-02-08,Small
+MERCH_00511,Merchant_511,Education,Canada,2024-03-28,Large
+MERCH_00512,Merchant_512,Digital Services,UK,2024-06-08,Small
+MERCH_00513,Merchant_513,Education,USA,2024-06-22,Enterprise
+MERCH_00514,Merchant_514,Entertainment,India,2024-03-23,Large
+MERCH_00515,Merchant_515,E-commerce,UK,2024-04-04,Enterprise
+MERCH_00516,Merchant_516,Travel,Canada,2024-03-20,Small
+MERCH_00517,Merchant_517,Education,USA,2024-05-08,Medium
+MERCH_00518,Merchant_518,Transportation,Canada,2024-07-08,Small
+MERCH_00519,Merchant_519,Travel,USA,2024-07-17,Medium
+MERCH_00520,Merchant_520,Healthcare,Canada,2024-08-14,Large
+MERCH_00521,Merchant_521,Healthcare,India,2024-01-14,Small
+MERCH_00522,Merchant_522,Travel,USA,2024-09-24,Enterprise
+MERCH_00523,Merchant_523,Entertainment,USA,2024-10-17,Small
+MERCH_00524,Merchant_524,E-commerce,Canada,2024-04-22,Medium
+MERCH_00525,Merchant_525,Healthcare,France,2024-10-21,Small
+MERCH_00526,Merchant_526,Transportation,USA,2024-04-26,Medium
+MERCH_00527,Merchant_527,Education,Canada,2024-06-27,Small
+MERCH_00528,Merchant_528,Healthcare,USA,2024-01-18,Enterprise
+MERCH_00529,Merchant_529,Digital Services,UK,2024-05-23,Small
+MERCH_00530,Merchant_530,Retail,UK,2024-07-31,Small
+MERCH_00531,Merchant_531,E-commerce,UK,2024-03-21,Large
+MERCH_00532,Merchant_532,E-commerce,USA,2024-04-06,Small
+MERCH_00533,Merchant_533,Travel,USA,2024-04-10,Medium
+MERCH_00534,Merchant_534,Digital Services,India,2024-08-23,Large
+MERCH_00535,Merchant_535,Utilities,UAE,2024-05-22,Medium
+MERCH_00536,Merchant_536,Retail,USA,2024-02-27,Medium
+MERCH_00537,Merchant_537,Food & Dining,Germany,2024-06-29,Medium
+MERCH_00538,Merchant_538,Utilities,USA,2024-04-10,Medium
+MERCH_00539,Merchant_539,Education,UK,2024-06-24,Medium
+MERCH_00540,Merchant_540,Retail,USA,2024-10-10,Large
+MERCH_00541,Merchant_541,Retail,Germany,2024-04-29,Medium
+MERCH_00542,Merchant_542,Retail,Australia,2024-04-16,Small
+MERCH_00543,Merchant_543,Healthcare,USA,2024-09-24,Medium
+MERCH_00544,Merchant_544,Food & Dining,France,2024-08-16,Enterprise
+MERCH_00545,Merchant_545,Education,Brazil,2024-09-17,Small
+MERCH_00546,Merchant_546,Healthcare,Australia,2024-10-25,Small
+MERCH_00547,Merchant_547,Utilities,Australia,2024-07-05,Small
+MERCH_00548,Merchant_548,Healthcare,USA,2024-02-10,Large
+MERCH_00549,Merchant_549,Food & Dining,India,2024-01-12,Enterprise
+MERCH_00550,Merchant_550,Food & Dining,USA,2024-06-23,Small
+MERCH_00551,Merchant_551,Healthcare,Canada,2024-05-04,Small
+MERCH_00552,Merchant_552,Transportation,USA,2024-01-17,Large
+MERCH_00553,Merchant_553,Education,Canada,2024-10-23,Medium
+MERCH_00554,Merchant_554,Utilities,UAE,2024-05-17,Large
+MERCH_00555,Merchant_555,Digital Services,India,2024-06-23,Small
+MERCH_00556,Merchant_556,Utilities,USA,2024-10-14,Large
+MERCH_00557,Merchant_557,Food & Dining,India,2024-09-03,Small
+MERCH_00558,Merchant_558,Travel,India,2024-07-04,Small
+MERCH_00559,Merchant_559,Travel,Germany,2024-10-19,Medium
+MERCH_00560,Merchant_560,Entertainment,USA,2024-06-25,Small
+MERCH_00561,Merchant_561,Retail,Canada,2024-01-31,Enterprise
+MERCH_00562,Merchant_562,Retail,Germany,2024-09-17,Medium
+MERCH_00563,Merchant_563,Digital Services,USA,2024-04-04,Enterprise
+MERCH_00564,Merchant_564,Education,USA,2024-06-25,Large
+MERCH_00565,Merchant_565,Digital Services,UK,2024-09-01,Small
+MERCH_00566,Merchant_566,Travel,India,2024-03-07,Small
+MERCH_00567,Merchant_567,Travel,USA,2024-04-25,Medium
+MERCH_00568,Merchant_568,Transportation,UK,2024-04-03,Large
+MERCH_00569,Merchant_569,Retail,Canada,2024-04-07,Small
+MERCH_00570,Merchant_570,Utilities,UK,2024-01-08,Small
+MERCH_00571,Merchant_571,Entertainment,USA,2024-01-03,Small
+MERCH_00572,Merchant_572,Transportation,USA,2024-09-03,Small
+MERCH_00573,Merchant_573,E-commerce,USA,2024-01-03,Small
+MERCH_00574,Merchant_574,Entertainment,Canada,2024-10-13,Medium
+MERCH_00575,Merchant_575,Digital Services,USA,2024-08-03,Small
+MERCH_00576,Merchant_576,Entertainment,Canada,2024-02-05,Medium
+MERCH_00577,Merchant_577,Food & Dining,France,2024-10-12,Small
+MERCH_00578,Merchant_578,Retail,UK,2024-08-11,Small
+MERCH_00579,Merchant_579,Healthcare,USA,2024-06-04,Small
+MERCH_00580,Merchant_580,Healthcare,USA,2024-09-14,Medium
+MERCH_00581,Merchant_581,Education,USA,2024-06-01,Small
+MERCH_00582,Merchant_582,E-commerce,USA,2024-07-20,Large
+MERCH_00583,Merchant_583,Education,USA,2024-08-21,Small
+MERCH_00584,Merchant_584,Retail,Germany,2024-05-25,Small
+MERCH_00585,Merchant_585,Retail,USA,2024-08-26,Small
+MERCH_00586,Merchant_586,Transportation,France,2024-06-28,Small
+MERCH_00587,Merchant_587,Digital Services,USA,2024-03-27,Large
+MERCH_00588,Merchant_588,E-commerce,USA,2024-02-20,Small
+MERCH_00589,Merchant_589,Food & Dining,USA,2024-05-17,Small
+MERCH_00590,Merchant_590,Digital Services,France,2024-10-07,Large
+MERCH_00591,Merchant_591,Food & Dining,UAE,2024-05-07,Small
+MERCH_00592,Merchant_592,Healthcare,Germany,2024-07-06,Enterprise
+MERCH_00593,Merchant_593,Utilities,Brazil,2024-07-13,Small
+MERCH_00594,Merchant_594,Digital Services,USA,2024-07-04,Small
+MERCH_00595,Merchant_595,Healthcare,USA,2024-01-22,Small
+MERCH_00596,Merchant_596,Entertainment,UK,2024-10-11,Small
+MERCH_00597,Merchant_597,Travel,USA,2024-07-14,Small
+MERCH_00598,Merchant_598,Transportation,India,2024-10-19,Medium
+MERCH_00599,Merchant_599,E-commerce,UAE,2024-03-10,Small
+MERCH_00600,Merchant_600,Healthcare,USA,2024-03-12,Small
+MERCH_00601,Merchant_601,Food & Dining,USA,2024-08-22,Medium
+MERCH_00602,Merchant_602,Transportation,Canada,2024-01-01,Medium
+MERCH_00603,Merchant_603,Digital Services,UK,2024-03-29,Small
+MERCH_00604,Merchant_604,Digital Services,USA,2024-06-19,Small
+MERCH_00605,Merchant_605,Utilities,UK,2024-03-07,Small
+MERCH_00606,Merchant_606,Travel,UAE,2024-07-07,Small
+MERCH_00607,Merchant_607,Food & Dining,Brazil,2024-05-15,Small
+MERCH_00608,Merchant_608,Healthcare,UK,2024-02-22,Small
+MERCH_00609,Merchant_609,Travel,France,2024-02-26,Medium
+MERCH_00610,Merchant_610,Utilities,USA,2024-02-01,Small
+MERCH_00611,Merchant_611,Healthcare,Singapore,2024-07-07,Small
+MERCH_00612,Merchant_612,Digital Services,USA,2024-06-30,Large
+MERCH_00613,Merchant_613,Food & Dining,Germany,2024-07-29,Large
+MERCH_00614,Merchant_614,Retail,Germany,2024-04-01,Small
+MERCH_00615,Merchant_615,E-commerce,USA,2024-06-04,Medium
+MERCH_00616,Merchant_616,Education,USA,2024-02-06,Enterprise
+MERCH_00617,Merchant_617,Utilities,USA,2024-03-14,Small
+MERCH_00618,Merchant_618,Food & Dining,USA,2024-08-04,Small
+MERCH_00619,Merchant_619,Food & Dining,Canada,2024-07-27,Large
+MERCH_00620,Merchant_620,E-commerce,Australia,2024-08-16,Small
+MERCH_00621,Merchant_621,Digital Services,India,2024-08-03,Medium
+MERCH_00622,Merchant_622,Food & Dining,India,2024-09-16,Small
+MERCH_00623,Merchant_623,Food & Dining,Brazil,2024-01-14,Small
+MERCH_00624,Merchant_624,Digital Services,Australia,2024-10-18,Medium
+MERCH_00625,Merchant_625,Education,Singapore,2024-05-15,Medium
+MERCH_00626,Merchant_626,Utilities,India,2024-01-26,Small
+MERCH_00627,Merchant_627,Utilities,UK,2024-06-09,Medium
+MERCH_00628,Merchant_628,Retail,USA,2024-10-18,Small
+MERCH_00629,Merchant_629,Entertainment,USA,2024-07-24,Small
+MERCH_00630,Merchant_630,Digital Services,Canada,2024-06-03,Small
+MERCH_00631,Merchant_631,Retail,Canada,2024-09-04,Large
+MERCH_00632,Merchant_632,Food & Dining,France,2024-01-19,Small
+MERCH_00633,Merchant_633,Transportation,Canada,2024-05-07,Small
+MERCH_00634,Merchant_634,E-commerce,UK,2024-04-12,Small
+MERCH_00635,Merchant_635,Digital Services,India,2024-08-05,Small
+MERCH_00636,Merchant_636,Education,USA,2024-05-16,Small
+MERCH_00637,Merchant_637,Entertainment,USA,2024-03-28,Small
+MERCH_00638,Merchant_638,Healthcare,Australia,2024-05-27,Large
+MERCH_00639,Merchant_639,Food & Dining,France,2024-06-15,Small
+MERCH_00640,Merchant_640,Digital Services,UK,2024-04-11,Medium
+MERCH_00641,Merchant_641,Food & Dining,USA,2024-03-20,Small
+MERCH_00642,Merchant_642,E-commerce,France,2024-01-13,Large
+MERCH_00643,Merchant_643,Utilities,Canada,2024-08-08,Small
+MERCH_00644,Merchant_644,Travel,UK,2024-06-12,Small
+MERCH_00645,Merchant_645,Travel,USA,2024-05-18,Medium
+MERCH_00646,Merchant_646,Retail,Australia,2024-04-25,Small
+MERCH_00647,Merchant_647,Healthcare,UAE,2024-03-12,Large
+MERCH_00648,Merchant_648,Education,France,2024-07-27,Medium
+MERCH_00649,Merchant_649,Digital Services,India,2024-02-04,Large
+MERCH_00650,Merchant_650,Food & Dining,USA,2024-05-31,Enterprise
+MERCH_00651,Merchant_651,Utilities,Canada,2024-04-22,Medium
+MERCH_00652,Merchant_652,Travel,France,2024-06-01,Large
+MERCH_00653,Merchant_653,Food & Dining,USA,2024-01-31,Small
+MERCH_00654,Merchant_654,Travel,USA,2024-04-16,Small
+MERCH_00655,Merchant_655,Food & Dining,USA,2024-09-01,Medium
+MERCH_00656,Merchant_656,Travel,UK,2024-02-06,Large
+MERCH_00657,Merchant_657,Food & Dining,USA,2024-06-25,Small
+MERCH_00658,Merchant_658,Healthcare,Germany,2024-03-17,Large
+MERCH_00659,Merchant_659,E-commerce,Brazil,2024-05-16,Medium
+MERCH_00660,Merchant_660,Utilities,India,2024-04-07,Small
+MERCH_00661,Merchant_661,Travel,Canada,2024-03-02,Medium
+MERCH_00662,Merchant_662,Utilities,USA,2024-01-23,Medium
+MERCH_00663,Merchant_663,Digital Services,USA,2024-02-03,Large
+MERCH_00664,Merchant_664,Travel,UK,2024-06-20,Small
+MERCH_00665,Merchant_665,Entertainment,UK,2024-07-29,Small
+MERCH_00666,Merchant_666,Food & Dining,Australia,2024-09-30,Small
+MERCH_00667,Merchant_667,Food & Dining,USA,2024-05-06,Large
+MERCH_00668,Merchant_668,Entertainment,UK,2024-01-16,Medium
+MERCH_00669,Merchant_669,Food & Dining,USA,2024-07-05,Small
+MERCH_00670,Merchant_670,Travel,USA,2024-05-03,Enterprise
+MERCH_00671,Merchant_671,Education,Canada,2024-02-09,Medium
+MERCH_00672,Merchant_672,Entertainment,France,2024-04-05,Large
+MERCH_00673,Merchant_673,Retail,Canada,2024-03-24,Small
+MERCH_00674,Merchant_674,Digital Services,Germany,2024-07-05,Medium
+MERCH_00675,Merchant_675,Transportation,India,2024-03-24,Small
+MERCH_00676,Merchant_676,Healthcare,UK,2024-07-24,Enterprise
+MERCH_00677,Merchant_677,Transportation,USA,2024-05-21,Large
+MERCH_00678,Merchant_678,Transportation,USA,2024-08-15,Large
+MERCH_00679,Merchant_679,Healthcare,France,2024-05-24,Small
+MERCH_00680,Merchant_680,Entertainment,UAE,2024-08-12,Small
+MERCH_00681,Merchant_681,Entertainment,USA,2024-10-08,Small
+MERCH_00682,Merchant_682,Education,Australia,2024-08-25,Small
+MERCH_00683,Merchant_683,Education,USA,2024-02-01,Medium
+MERCH_00684,Merchant_684,Digital Services,UK,2024-08-10,Small
+MERCH_00685,Merchant_685,Healthcare,Singapore,2024-08-12,Small
+MERCH_00686,Merchant_686,Healthcare,Canada,2024-07-14,Small
+MERCH_00687,Merchant_687,Education,UK,2024-05-28,Medium
+MERCH_00688,Merchant_688,Travel,USA,2024-05-24,Small
+MERCH_00689,Merchant_689,Healthcare,Brazil,2024-03-24,Small
+MERCH_00690,Merchant_690,Education,UK,2024-09-16,Small
+MERCH_00691,Merchant_691,Education,Singapore,2024-07-30,Small
+MERCH_00692,Merchant_692,Healthcare,Germany,2024-04-29,Medium
+MERCH_00693,Merchant_693,Entertainment,France,2024-01-19,Large
+MERCH_00694,Merchant_694,Retail,UK,2024-08-26,Medium
+MERCH_00695,Merchant_695,Digital Services,Brazil,2024-01-16,Medium
+MERCH_00696,Merchant_696,Utilities,USA,2024-08-23,Medium
+MERCH_00697,Merchant_697,E-commerce,UK,2024-09-25,Medium
+MERCH_00698,Merchant_698,Utilities,UK,2024-02-10,Medium
+MERCH_00699,Merchant_699,Travel,USA,2024-01-21,Small
+MERCH_00700,Merchant_700,Digital Services,Canada,2024-02-05,Small
+MERCH_00701,Merchant_701,E-commerce,India,2024-01-19,Small
+MERCH_00702,Merchant_702,Digital Services,France,2024-02-25,Small
+MERCH_00703,Merchant_703,Retail,USA,2024-03-10,Medium
+MERCH_00704,Merchant_704,Travel,Brazil,2024-05-30,Small
+MERCH_00705,Merchant_705,E-commerce,France,2024-05-28,Small
+MERCH_00706,Merchant_706,Entertainment,France,2024-09-25,Medium
+MERCH_00707,Merchant_707,Transportation,Germany,2024-01-05,Small
+MERCH_00708,Merchant_708,Transportation,France,2024-07-09,Enterprise
+MERCH_00709,Merchant_709,Digital Services,Canada,2024-07-19,Large
+MERCH_00710,Merchant_710,Utilities,Canada,2024-06-01,Small
+MERCH_00711,Merchant_711,Digital Services,Germany,2024-03-06,Enterprise
+MERCH_00712,Merchant_712,Travel,Germany,2024-02-23,Small
+MERCH_00713,Merchant_713,Transportation,Brazil,2024-02-27,Medium
+MERCH_00714,Merchant_714,Healthcare,USA,2024-09-17,Small
+MERCH_00715,Merchant_715,Digital Services,UK,2024-09-03,Small
+MERCH_00716,Merchant_716,Retail,Canada,2024-06-06,Large
+MERCH_00717,Merchant_717,Utilities,Australia,2024-01-11,Small
+MERCH_00718,Merchant_718,E-commerce,India,2024-01-14,Medium
+MERCH_00719,Merchant_719,Retail,Australia,2024-05-23,Medium
+MERCH_00720,Merchant_720,Food & Dining,Canada,2024-05-11,Small
+MERCH_00721,Merchant_721,Retail,Singapore,2024-10-26,Small
+MERCH_00722,Merchant_722,Transportation,UK,2024-02-05,Small
+MERCH_00723,Merchant_723,Digital Services,USA,2024-01-28,Medium
+MERCH_00724,Merchant_724,Travel,USA,2024-02-01,Large
+MERCH_00725,Merchant_725,Food & Dining,Canada,2024-08-12,Medium
+MERCH_00726,Merchant_726,Education,France,2024-03-27,Small
+MERCH_00727,Merchant_727,Retail,Germany,2024-04-08,Small
+MERCH_00728,Merchant_728,Travel,UK,2024-02-06,Small
+MERCH_00729,Merchant_729,Entertainment,Australia,2024-05-30,Large
+MERCH_00730,Merchant_730,Food & Dining,France,2024-10-18,Small
+MERCH_00731,Merchant_731,Healthcare,Australia,2024-03-29,Small
+MERCH_00732,Merchant_732,Education,Canada,2024-01-16,Medium
+MERCH_00733,Merchant_733,Transportation,USA,2024-05-25,Medium
+MERCH_00734,Merchant_734,Entertainment,Australia,2024-10-18,Large
+MERCH_00735,Merchant_735,Transportation,UK,2024-04-16,Small
+MERCH_00736,Merchant_736,Digital Services,Germany,2024-01-09,Enterprise
+MERCH_00737,Merchant_737,Healthcare,UK,2024-07-31,Small
+MERCH_00738,Merchant_738,Transportation,Brazil,2024-05-28,Medium
+MERCH_00739,Merchant_739,E-commerce,Brazil,2024-01-29,Enterprise
+MERCH_00740,Merchant_740,Education,Brazil,2024-05-15,Medium
+MERCH_00741,Merchant_741,Healthcare,USA,2024-02-13,Large
+MERCH_00742,Merchant_742,Transportation,Brazil,2024-03-07,Small
+MERCH_00743,Merchant_743,Digital Services,USA,2024-02-07,Medium
+MERCH_00744,Merchant_744,Entertainment,USA,2024-01-31,Medium
+MERCH_00745,Merchant_745,Entertainment,USA,2024-08-22,Medium
+MERCH_00746,Merchant_746,Digital Services,Brazil,2024-01-21,Medium
+MERCH_00747,Merchant_747,E-commerce,Germany,2024-05-20,Medium
+MERCH_00748,Merchant_748,Travel,USA,2024-04-15,Small
+MERCH_00749,Merchant_749,Transportation,France,2024-02-08,Small
+MERCH_00750,Merchant_750,Digital Services,Brazil,2024-01-15,Small
+MERCH_00751,Merchant_751,E-commerce,France,2024-06-27,Enterprise
+MERCH_00752,Merchant_752,Digital Services,USA,2024-07-08,Medium
+MERCH_00753,Merchant_753,Retail,USA,2024-01-05,Small
+MERCH_00754,Merchant_754,Entertainment,USA,2024-04-21,Small
+MERCH_00755,Merchant_755,Retail,USA,2024-02-15,Large
+MERCH_00756,Merchant_756,E-commerce,USA,2024-07-05,Small
+MERCH_00757,Merchant_757,Healthcare,USA,2024-09-24,Large
+MERCH_00758,Merchant_758,Travel,Brazil,2024-09-19,Small
+MERCH_00759,Merchant_759,Food & Dining,France,2024-08-21,Small
+MERCH_00760,Merchant_760,Education,USA,2024-10-08,Small
+MERCH_00761,Merchant_761,Retail,Brazil,2024-06-11,Small
+MERCH_00762,Merchant_762,Digital Services,UK,2024-01-20,Medium
+MERCH_00763,Merchant_763,Retail,UK,2024-07-17,Small
+MERCH_00764,Merchant_764,Entertainment,UK,2024-07-31,Large
+MERCH_00765,Merchant_765,E-commerce,USA,2024-01-08,Small
+MERCH_00766,Merchant_766,Travel,UK,2024-08-08,Medium
+MERCH_00767,Merchant_767,Digital Services,Canada,2024-08-15,Large
+MERCH_00768,Merchant_768,Food & Dining,USA,2024-07-02,Large
+MERCH_00769,Merchant_769,Healthcare,USA,2024-02-29,Enterprise
+MERCH_00770,Merchant_770,Healthcare,UAE,2024-05-16,Medium
+MERCH_00771,Merchant_771,Education,USA,2024-02-29,Small
+MERCH_00772,Merchant_772,Retail,India,2024-05-15,Large
+MERCH_00773,Merchant_773,Transportation,France,2024-09-24,Medium
+MERCH_00774,Merchant_774,Digital Services,USA,2024-04-26,Small
+MERCH_00775,Merchant_775,Entertainment,Canada,2024-06-25,Small
+MERCH_00776,Merchant_776,Education,USA,2024-02-06,Medium
+MERCH_00777,Merchant_777,Digital Services,USA,2024-06-19,Medium
+MERCH_00778,Merchant_778,Education,USA,2024-07-25,Small
+MERCH_00779,Merchant_779,Transportation,France,2024-01-11,Small
+MERCH_00780,Merchant_780,Healthcare,UAE,2024-10-17,Small
+MERCH_00781,Merchant_781,Travel,Germany,2024-06-28,Small
+MERCH_00782,Merchant_782,Travel,India,2024-03-02,Medium
+MERCH_00783,Merchant_783,E-commerce,UK,2024-05-16,Medium
+MERCH_00784,Merchant_784,Healthcare,France,2024-03-08,Medium
+MERCH_00785,Merchant_785,E-commerce,Brazil,2024-08-22,Small
+MERCH_00786,Merchant_786,E-commerce,USA,2024-08-30,Medium
+MERCH_00787,Merchant_787,Education,France,2024-01-27,Small
+MERCH_00788,Merchant_788,Retail,USA,2024-03-20,Small
+MERCH_00789,Merchant_789,Healthcare,USA,2024-02-03,Medium
+MERCH_00790,Merchant_790,E-commerce,Germany,2024-06-24,Medium
+MERCH_00791,Merchant_791,Digital Services,UK,2024-04-27,Medium
+MERCH_00792,Merchant_792,Food & Dining,UK,2024-10-03,Small
+MERCH_00793,Merchant_793,Travel,UAE,2024-07-17,Small
+MERCH_00794,Merchant_794,Entertainment,Australia,2024-02-28,Large
+MERCH_00795,Merchant_795,Transportation,Brazil,2024-02-23,Medium
+MERCH_00796,Merchant_796,Food & Dining,Germany,2024-06-20,Large
+MERCH_00797,Merchant_797,Utilities,Australia,2024-03-03,Small
+MERCH_00798,Merchant_798,Travel,UK,2024-03-01,Small
+MERCH_00799,Merchant_799,Education,Australia,2024-02-10,Medium
+MERCH_00800,Merchant_800,E-commerce,Australia,2024-08-10,Medium
+MERCH_00801,Merchant_801,Utilities,UAE,2024-03-30,Small
+MERCH_00802,Merchant_802,Travel,Australia,2024-08-29,Small
+MERCH_00803,Merchant_803,E-commerce,Singapore,2024-02-19,Small
+MERCH_00804,Merchant_804,Healthcare,USA,2024-05-11,Small
+MERCH_00805,Merchant_805,Food & Dining,UK,2024-04-16,Small
+MERCH_00806,Merchant_806,Digital Services,Canada,2024-07-08,Medium
+MERCH_00807,Merchant_807,Education,USA,2024-04-08,Small
+MERCH_00808,Merchant_808,Travel,Singapore,2024-05-14,Medium
+MERCH_00809,Merchant_809,Entertainment,USA,2024-02-27,Medium
+MERCH_00810,Merchant_810,Utilities,UK,2024-01-19,Small
+MERCH_00811,Merchant_811,Education,USA,2024-07-20,Small
+MERCH_00812,Merchant_812,E-commerce,UK,2024-02-23,Small
+MERCH_00813,Merchant_813,Healthcare,USA,2024-08-03,Small
+MERCH_00814,Merchant_814,Travel,India,2024-06-15,Medium
+MERCH_00815,Merchant_815,Education,Germany,2024-01-06,Medium
+MERCH_00816,Merchant_816,Transportation,UK,2024-05-10,Medium
+MERCH_00817,Merchant_817,Healthcare,UK,2024-09-12,Small
+MERCH_00818,Merchant_818,Transportation,USA,2024-04-05,Small
+MERCH_00819,Merchant_819,Transportation,Brazil,2024-06-11,Small
+MERCH_00820,Merchant_820,Healthcare,India,2024-06-27,Small
+MERCH_00821,Merchant_821,Retail,France,2024-04-20,Enterprise
+MERCH_00822,Merchant_822,Retail,UK,2024-03-03,Medium
+MERCH_00823,Merchant_823,Retail,USA,2024-01-19,Small
+MERCH_00824,Merchant_824,Digital Services,Australia,2024-09-11,Small
+MERCH_00825,Merchant_825,Food & Dining,USA,2024-04-12,Large
+MERCH_00826,Merchant_826,E-commerce,India,2024-09-12,Medium
+MERCH_00827,Merchant_827,E-commerce,USA,2024-02-08,Enterprise
+MERCH_00828,Merchant_828,Retail,USA,2024-04-05,Medium
+MERCH_00829,Merchant_829,Utilities,Brazil,2024-03-15,Small
+MERCH_00830,Merchant_830,Entertainment,USA,2024-01-04,Medium
+MERCH_00831,Merchant_831,Travel,UK,2024-08-12,Small
+MERCH_00832,Merchant_832,Utilities,Germany,2024-03-15,Medium
+MERCH_00833,Merchant_833,E-commerce,UK,2024-06-13,Small
+MERCH_00834,Merchant_834,Healthcare,Canada,2024-01-17,Small
+MERCH_00835,Merchant_835,Healthcare,France,2024-10-06,Large
+MERCH_00836,Merchant_836,Retail,Singapore,2024-06-05,Large
+MERCH_00837,Merchant_837,Digital Services,USA,2024-06-13,Large
+MERCH_00838,Merchant_838,Travel,USA,2024-03-31,Small
+MERCH_00839,Merchant_839,Entertainment,USA,2024-06-02,Medium
+MERCH_00840,Merchant_840,E-commerce,Australia,2024-01-11,Medium
+MERCH_00841,Merchant_841,Transportation,USA,2024-10-07,Small
+MERCH_00842,Merchant_842,Travel,India,2024-09-21,Medium
+MERCH_00843,Merchant_843,Retail,Australia,2024-08-11,Large
+MERCH_00844,Merchant_844,Utilities,USA,2024-01-18,Small
+MERCH_00845,Merchant_845,Entertainment,USA,2024-08-07,Small
+MERCH_00846,Merchant_846,Utilities,UK,2024-03-06,Medium
+MERCH_00847,Merchant_847,Healthcare,Canada,2024-06-11,Small
+MERCH_00848,Merchant_848,Food & Dining,Australia,2024-04-27,Enterprise
+MERCH_00849,Merchant_849,Utilities,Germany,2024-04-30,Large
+MERCH_00850,Merchant_850,Healthcare,Australia,2024-07-27,Small
+MERCH_00851,Merchant_851,Food & Dining,USA,2024-01-20,Small
+MERCH_00852,Merchant_852,Utilities,Australia,2024-02-20,Small
+MERCH_00853,Merchant_853,E-commerce,Germany,2024-01-08,Medium
+MERCH_00854,Merchant_854,Entertainment,USA,2024-10-25,Small
+MERCH_00855,Merchant_855,Travel,USA,2024-10-21,Small
+MERCH_00856,Merchant_856,Education,Australia,2024-05-01,Small
+MERCH_00857,Merchant_857,Food & Dining,Singapore,2024-02-08,Medium
+MERCH_00858,Merchant_858,Healthcare,Germany,2024-02-20,Small
+MERCH_00859,Merchant_859,Utilities,Germany,2024-05-17,Medium
+MERCH_00860,Merchant_860,Transportation,France,2024-01-31,Large
+MERCH_00861,Merchant_861,Utilities,USA,2024-01-14,Enterprise
+MERCH_00862,Merchant_862,Digital Services,Singapore,2024-09-15,Small
+MERCH_00863,Merchant_863,Utilities,Germany,2024-02-28,Medium
+MERCH_00864,Merchant_864,Travel,UK,2024-03-25,Small
+MERCH_00865,Merchant_865,Food & Dining,UK,2024-08-19,Medium
+MERCH_00866,Merchant_866,E-commerce,UAE,2024-02-26,Small
+MERCH_00867,Merchant_867,Utilities,USA,2024-03-10,Small
+MERCH_00868,Merchant_868,E-commerce,UK,2024-04-04,Medium
+MERCH_00869,Merchant_869,Healthcare,France,2024-09-21,Enterprise
+MERCH_00870,Merchant_870,Utilities,USA,2024-09-23,Medium
+MERCH_00871,Merchant_871,Healthcare,Germany,2024-08-17,Small
+MERCH_00872,Merchant_872,Education,UAE,2024-06-05,Medium
+MERCH_00873,Merchant_873,Food & Dining,USA,2024-02-09,Large
+MERCH_00874,Merchant_874,Digital Services,France,2024-06-20,Medium
+MERCH_00875,Merchant_875,Food & Dining,USA,2024-05-11,Medium
+MERCH_00876,Merchant_876,Entertainment,UK,2024-03-17,Large
+MERCH_00877,Merchant_877,Travel,UK,2024-07-01,Medium
+MERCH_00878,Merchant_878,Utilities,USA,2024-05-15,Small
+MERCH_00879,Merchant_879,Utilities,India,2024-04-08,Small
+MERCH_00880,Merchant_880,Transportation,UK,2024-06-01,Small
+MERCH_00881,Merchant_881,Utilities,USA,2024-06-18,Enterprise
+MERCH_00882,Merchant_882,E-commerce,India,2024-01-23,Medium
+MERCH_00883,Merchant_883,Retail,USA,2024-03-17,Small
+MERCH_00884,Merchant_884,Travel,Brazil,2024-07-26,Small
+MERCH_00885,Merchant_885,Entertainment,Australia,2024-08-06,Large
+MERCH_00886,Merchant_886,Travel,USA,2024-05-13,Medium
+MERCH_00887,Merchant_887,Digital Services,USA,2024-03-29,Small
+MERCH_00888,Merchant_888,Utilities,France,2024-09-02,Large
+MERCH_00889,Merchant_889,Entertainment,USA,2024-05-04,Small
+MERCH_00890,Merchant_890,Transportation,USA,2024-09-29,Enterprise
+MERCH_00891,Merchant_891,Entertainment,USA,2024-08-09,Medium
+MERCH_00892,Merchant_892,E-commerce,Australia,2024-07-20,Small
+MERCH_00893,Merchant_893,Travel,UK,2024-08-11,Medium
+MERCH_00894,Merchant_894,Retail,India,2024-05-22,Medium
+MERCH_00895,Merchant_895,E-commerce,India,2024-10-07,Small
+MERCH_00896,Merchant_896,Transportation,France,2024-02-02,Large
+MERCH_00897,Merchant_897,E-commerce,USA,2024-02-12,Large
+MERCH_00898,Merchant_898,Education,USA,2024-01-20,Small
+MERCH_00899,Merchant_899,Retail,UK,2024-06-20,Large
+MERCH_00900,Merchant_900,Transportation,Brazil,2024-02-05,Small
+MERCH_00901,Merchant_901,Education,USA,2024-03-28,Medium
+MERCH_00902,Merchant_902,Healthcare,Canada,2024-10-16,Small
+MERCH_00903,Merchant_903,Education,USA,2024-03-10,Small
+MERCH_00904,Merchant_904,Digital Services,USA,2024-08-27,Small
+MERCH_00905,Merchant_905,Transportation,Germany,2024-03-16,Medium
+MERCH_00906,Merchant_906,Healthcare,Germany,2024-05-18,Medium
+MERCH_00907,Merchant_907,Food & Dining,UAE,2024-04-06,Small
+MERCH_00908,Merchant_908,Healthcare,UK,2024-01-10,Enterprise
+MERCH_00909,Merchant_909,Travel,USA,2024-08-06,Small
+MERCH_00910,Merchant_910,Utilities,UK,2024-09-09,Small
+MERCH_00911,Merchant_911,Travel,Australia,2024-08-29,Small
+MERCH_00912,Merchant_912,Utilities,USA,2024-09-11,Large
+MERCH_00913,Merchant_913,Transportation,USA,2024-09-21,Medium
+MERCH_00914,Merchant_914,Utilities,India,2024-04-29,Small
+MERCH_00915,Merchant_915,Food & Dining,USA,2024-07-16,Enterprise
+MERCH_00916,Merchant_916,Digital Services,India,2024-08-21,Large
+MERCH_00917,Merchant_917,Utilities,Canada,2024-08-22,Enterprise
+MERCH_00918,Merchant_918,Travel,USA,2024-09-16,Medium
+MERCH_00919,Merchant_919,Transportation,USA,2024-02-04,Small
+MERCH_00920,Merchant_920,Digital Services,USA,2024-01-06,Medium
+MERCH_00921,Merchant_921,E-commerce,USA,2024-09-09,Small
+MERCH_00922,Merchant_922,Healthcare,UK,2024-01-02,Medium
+MERCH_00923,Merchant_923,Food & Dining,Singapore,2024-09-18,Small
+MERCH_00924,Merchant_924,Travel,USA,2024-03-09,Small
+MERCH_00925,Merchant_925,Entertainment,USA,2024-05-08,Small
+MERCH_00926,Merchant_926,Food & Dining,Singapore,2024-01-28,Medium
+MERCH_00927,Merchant_927,Transportation,France,2024-09-14,Medium
+MERCH_00928,Merchant_928,Food & Dining,UK,2024-04-24,Small
+MERCH_00929,Merchant_929,Retail,Canada,2024-07-02,Small
+MERCH_00930,Merchant_930,Food & Dining,Brazil,2024-02-12,Small
+MERCH_00931,Merchant_931,Digital Services,USA,2024-04-22,Medium
+MERCH_00932,Merchant_932,E-commerce,Australia,2024-04-07,Enterprise
+MERCH_00933,Merchant_933,Healthcare,UK,2024-02-19,Small
+MERCH_00934,Merchant_934,E-commerce,UK,2024-06-30,Large
+MERCH_00935,Merchant_935,Utilities,India,2024-08-20,Large
+MERCH_00936,Merchant_936,Food & Dining,USA,2024-10-22,Medium
+MERCH_00937,Merchant_937,Retail,Brazil,2024-04-01,Small
+MERCH_00938,Merchant_938,Utilities,USA,2024-01-29,Small
+MERCH_00939,Merchant_939,Food & Dining,Canada,2024-10-14,Medium
+MERCH_00940,Merchant_940,Digital Services,UK,2024-04-02,Small
+MERCH_00941,Merchant_941,Utilities,Canada,2024-05-07,Large
+MERCH_00942,Merchant_942,Entertainment,Canada,2024-08-09,Medium
+MERCH_00943,Merchant_943,Transportation,Canada,2024-07-16,Small
+MERCH_00944,Merchant_944,Transportation,Germany,2024-02-12,Small
+MERCH_00945,Merchant_945,Entertainment,Singapore,2024-07-17,Large
+MERCH_00946,Merchant_946,Digital Services,UAE,2024-03-24,Medium
+MERCH_00947,Merchant_947,Food & Dining,USA,2024-01-09,Small
+MERCH_00948,Merchant_948,Digital Services,USA,2024-02-12,Small
+MERCH_00949,Merchant_949,Healthcare,USA,2024-08-16,Small
+MERCH_00950,Merchant_950,E-commerce,USA,2024-03-18,Medium
+MERCH_00951,Merchant_951,Travel,USA,2024-06-15,Small
+MERCH_00952,Merchant_952,Food & Dining,USA,2024-02-29,Small
+MERCH_00953,Merchant_953,Education,Australia,2024-03-12,Small
+MERCH_00954,Merchant_954,Retail,Germany,2024-07-14,Small
+MERCH_00955,Merchant_955,Digital Services,USA,2024-07-24,Medium
+MERCH_00956,Merchant_956,Digital Services,Brazil,2024-01-30,Small
+MERCH_00957,Merchant_957,Entertainment,UAE,2024-10-14,Small
+MERCH_00958,Merchant_958,Utilities,Australia,2024-08-02,Small
+MERCH_00959,Merchant_959,Entertainment,India,2024-08-04,Large
+MERCH_00960,Merchant_960,E-commerce,USA,2024-02-26,Medium
+MERCH_00961,Merchant_961,E-commerce,USA,2024-02-14,Medium
+MERCH_00962,Merchant_962,Education,Australia,2024-01-11,Large
+MERCH_00963,Merchant_963,Utilities,India,2024-10-10,Small
+MERCH_00964,Merchant_964,E-commerce,Brazil,2024-05-18,Medium
+MERCH_00965,Merchant_965,Entertainment,USA,2024-01-01,Small
+MERCH_00966,Merchant_966,Education,France,2024-05-02,Small
+MERCH_00967,Merchant_967,Entertainment,Brazil,2024-01-14,Medium
+MERCH_00968,Merchant_968,Transportation,USA,2024-10-17,Large
+MERCH_00969,Merchant_969,Education,France,2024-04-02,Small
+MERCH_00970,Merchant_970,Healthcare,Australia,2024-09-01,Small
+MERCH_00971,Merchant_971,E-commerce,USA,2024-07-19,Medium
+MERCH_00972,Merchant_972,Entertainment,India,2024-09-04,Medium
+MERCH_00973,Merchant_973,E-commerce,UK,2024-04-20,Medium
+MERCH_00974,Merchant_974,Healthcare,USA,2024-07-29,Large
+MERCH_00975,Merchant_975,Education,UK,2024-01-11,Small
+MERCH_00976,Merchant_976,Digital Services,UK,2024-09-27,Small
+MERCH_00977,Merchant_977,Utilities,India,2024-08-01,Small
+MERCH_00978,Merchant_978,Food & Dining,USA,2024-04-27,Large
+MERCH_00979,Merchant_979,Digital Services,USA,2024-04-15,Small
+MERCH_00980,Merchant_980,Entertainment,USA,2024-04-21,Small
+MERCH_00981,Merchant_981,Travel,Canada,2024-10-25,Small
+MERCH_00982,Merchant_982,Healthcare,UAE,2024-06-26,Small
+MERCH_00983,Merchant_983,Digital Services,USA,2024-01-23,Small
+MERCH_00984,Merchant_984,Utilities,Brazil,2024-07-19,Small
+MERCH_00985,Merchant_985,E-commerce,USA,2024-07-19,Small
+MERCH_00986,Merchant_986,Healthcare,UK,2024-07-26,Large
+MERCH_00987,Merchant_987,Entertainment,UK,2024-09-09,Small
+MERCH_00988,Merchant_988,Digital Services,Brazil,2024-08-07,Small
+MERCH_00989,Merchant_989,Transportation,Australia,2024-01-05,Large
+MERCH_00990,Merchant_990,Education,USA,2024-06-23,Medium
+MERCH_00991,Merchant_991,E-commerce,UK,2024-06-30,Small
+MERCH_00992,Merchant_992,Transportation,Australia,2024-01-11,Medium
+MERCH_00993,Merchant_993,Food & Dining,France,2024-09-26,Small
+MERCH_00994,Merchant_994,Retail,Australia,2024-01-14,Medium
+MERCH_00995,Merchant_995,Food & Dining,Australia,2024-01-19,Medium
+MERCH_00996,Merchant_996,Entertainment,Germany,2024-06-22,Small
+MERCH_00997,Merchant_997,Retail,UK,2024-01-25,Small
+MERCH_00998,Merchant_998,Digital Services,UK,2024-01-28,Small
+MERCH_00999,Merchant_999,Digital Services,UK,2024-10-07,Medium
+MERCH_01000,Merchant_1000,Food & Dining,UK,2024-04-21,Small
+MERCH_01001,Merchant_1001,Entertainment,USA,2024-01-23,Medium
+MERCH_01002,Merchant_1002,E-commerce,Canada,2024-08-01,Medium
+MERCH_01003,Merchant_1003,E-commerce,UK,2024-04-05,Medium
+MERCH_01004,Merchant_1004,Food & Dining,USA,2024-07-03,Small
+MERCH_01005,Merchant_1005,Travel,USA,2024-01-25,Large
+MERCH_01006,Merchant_1006,Retail,Germany,2024-09-15,Large
+MERCH_01007,Merchant_1007,Food & Dining,USA,2024-01-19,Medium
+MERCH_01008,Merchant_1008,E-commerce,Australia,2024-06-28,Large
+MERCH_01009,Merchant_1009,Digital Services,Germany,2024-07-08,Small
+MERCH_01010,Merchant_1010,Utilities,UK,2024-08-08,Small
+MERCH_01011,Merchant_1011,Utilities,USA,2024-05-31,Medium
+MERCH_01012,Merchant_1012,E-commerce,Germany,2024-06-08,Small
+MERCH_01013,Merchant_1013,Education,USA,2024-02-09,Medium
+MERCH_01014,Merchant_1014,Transportation,USA,2024-10-26,Medium
+MERCH_01015,Merchant_1015,Education,France,2024-10-20,Small
+MERCH_01016,Merchant_1016,Healthcare,India,2024-05-27,Small
+MERCH_01017,Merchant_1017,Healthcare,Canada,2024-02-04,Medium
+MERCH_01018,Merchant_1018,Transportation,USA,2024-03-05,Large
+MERCH_01019,Merchant_1019,Utilities,Germany,2024-05-13,Large
+MERCH_01020,Merchant_1020,Digital Services,USA,2024-04-18,Large
+MERCH_01021,Merchant_1021,Education,Brazil,2024-08-01,Small
+MERCH_01022,Merchant_1022,Transportation,Canada,2024-02-03,Small
+MERCH_01023,Merchant_1023,Food & Dining,India,2024-07-19,Small
+MERCH_01024,Merchant_1024,Education,USA,2024-01-25,Small
+MERCH_01025,Merchant_1025,Transportation,France,2024-07-09,Enterprise
+MERCH_01026,Merchant_1026,E-commerce,India,2024-01-07,Small
+MERCH_01027,Merchant_1027,Education,Brazil,2024-04-02,Medium
+MERCH_01028,Merchant_1028,Entertainment,India,2024-10-26,Medium
+MERCH_01029,Merchant_1029,Retail,USA,2024-01-22,Small
+MERCH_01030,Merchant_1030,Education,UK,2024-08-13,Medium
+MERCH_01031,Merchant_1031,Healthcare,UK,2024-07-23,Small
+MERCH_01032,Merchant_1032,Digital Services,USA,2024-02-17,Medium
+MERCH_01033,Merchant_1033,Utilities,Canada,2024-10-24,Large
+MERCH_01034,Merchant_1034,Entertainment,UK,2024-03-01,Small
+MERCH_01035,Merchant_1035,Digital Services,USA,2024-09-15,Medium
+MERCH_01036,Merchant_1036,Education,Canada,2024-02-26,Small
+MERCH_01037,Merchant_1037,E-commerce,USA,2024-06-07,Enterprise
+MERCH_01038,Merchant_1038,Utilities,UK,2024-10-01,Medium
+MERCH_01039,Merchant_1039,Travel,India,2024-04-17,Small
+MERCH_01040,Merchant_1040,Education,India,2024-07-30,Small
+MERCH_01041,Merchant_1041,Education,France,2024-09-09,Small
+MERCH_01042,Merchant_1042,Healthcare,USA,2024-09-24,Small
+MERCH_01043,Merchant_1043,Entertainment,UK,2024-05-14,Small
+MERCH_01044,Merchant_1044,Entertainment,France,2024-01-08,Large
+MERCH_01045,Merchant_1045,Retail,Germany,2024-05-01,Medium
+MERCH_01046,Merchant_1046,Education,UAE,2024-03-09,Small
+MERCH_01047,Merchant_1047,Transportation,Canada,2024-02-17,Small
+MERCH_01048,Merchant_1048,Travel,Australia,2024-08-18,Small
+MERCH_01049,Merchant_1049,Food & Dining,USA,2024-08-14,Small
+MERCH_01050,Merchant_1050,Travel,Canada,2024-05-22,Small
+MERCH_01051,Merchant_1051,E-commerce,India,2024-10-15,Enterprise
+MERCH_01052,Merchant_1052,E-commerce,Canada,2024-02-17,Small
+MERCH_01053,Merchant_1053,Digital Services,India,2024-03-01,Enterprise
+MERCH_01054,Merchant_1054,Travel,USA,2024-09-01,Medium
+MERCH_01055,Merchant_1055,Food & Dining,USA,2024-08-10,Small
+MERCH_01056,Merchant_1056,Education,UK,2024-08-12,Small
+MERCH_01057,Merchant_1057,E-commerce,USA,2024-06-19,Small
+MERCH_01058,Merchant_1058,Education,Canada,2024-07-09,Large
+MERCH_01059,Merchant_1059,Education,Australia,2024-01-12,Medium
+MERCH_01060,Merchant_1060,E-commerce,Australia,2024-01-21,Medium
+MERCH_01061,Merchant_1061,Entertainment,USA,2024-05-22,Medium
+MERCH_01062,Merchant_1062,Travel,Canada,2024-04-06,Medium
+MERCH_01063,Merchant_1063,Transportation,USA,2024-09-09,Small
+MERCH_01064,Merchant_1064,Food & Dining,Canada,2024-06-22,Enterprise
+MERCH_01065,Merchant_1065,Utilities,USA,2024-04-11,Medium
+MERCH_01066,Merchant_1066,Transportation,France,2024-02-23,Medium
+MERCH_01067,Merchant_1067,Food & Dining,Canada,2024-06-19,Large
+MERCH_01068,Merchant_1068,Transportation,UK,2024-08-16,Medium
+MERCH_01069,Merchant_1069,Digital Services,USA,2024-06-30,Small
+MERCH_01070,Merchant_1070,Transportation,Germany,2024-03-08,Small
+MERCH_01071,Merchant_1071,Food & Dining,Brazil,2024-03-31,Large
+MERCH_01072,Merchant_1072,E-commerce,Germany,2024-06-13,Small
+MERCH_01073,Merchant_1073,Digital Services,Singapore,2024-01-27,Small
+MERCH_01074,Merchant_1074,Transportation,USA,2024-10-02,Small
+MERCH_01075,Merchant_1075,Transportation,USA,2024-05-06,Large
+MERCH_01076,Merchant_1076,Retail,Canada,2024-10-13,Medium
+MERCH_01077,Merchant_1077,Food & Dining,France,2024-07-20,Medium
+MERCH_01078,Merchant_1078,Entertainment,USA,2024-01-19,Enterprise
+MERCH_01079,Merchant_1079,Food & Dining,Singapore,2024-04-11,Large
+MERCH_01080,Merchant_1080,Education,UK,2024-10-25,Large
+MERCH_01081,Merchant_1081,Entertainment,USA,2024-01-31,Small
+MERCH_01082,Merchant_1082,Healthcare,UK,2024-04-19,Medium
+MERCH_01083,Merchant_1083,Travel,India,2024-08-05,Medium
+MERCH_01084,Merchant_1084,Healthcare,Singapore,2024-09-10,Medium
+MERCH_01085,Merchant_1085,Transportation,USA,2024-05-29,Small
+MERCH_01086,Merchant_1086,Healthcare,USA,2024-10-11,Small
+MERCH_01087,Merchant_1087,Retail,UK,2024-08-07,Medium
+MERCH_01088,Merchant_1088,Education,Germany,2024-08-14,Enterprise
+MERCH_01089,Merchant_1089,Travel,USA,2024-07-03,Small
+MERCH_01090,Merchant_1090,Transportation,UK,2024-07-21,Enterprise
+MERCH_01091,Merchant_1091,Healthcare,Australia,2024-08-29,Small
+MERCH_01092,Merchant_1092,Healthcare,Germany,2024-07-07,Medium
+MERCH_01093,Merchant_1093,Utilities,Canada,2024-04-14,Medium
+MERCH_01094,Merchant_1094,Travel,Germany,2024-06-15,Medium
+MERCH_01095,Merchant_1095,Travel,USA,2024-02-08,Large
+MERCH_01096,Merchant_1096,Food & Dining,Australia,2024-06-10,Small
+MERCH_01097,Merchant_1097,Utilities,UAE,2024-05-07,Small
+MERCH_01098,Merchant_1098,E-commerce,France,2024-05-12,Large
+MERCH_01099,Merchant_1099,Healthcare,UK,2024-09-09,Enterprise
+MERCH_01100,Merchant_1100,Healthcare,UAE,2024-05-25,Medium
+MERCH_01101,Merchant_1101,Utilities,Germany,2024-04-13,Large
+MERCH_01102,Merchant_1102,Digital Services,Germany,2024-03-10,Small
+MERCH_01103,Merchant_1103,Digital Services,USA,2024-09-11,Medium
+MERCH_01104,Merchant_1104,Travel,India,2024-01-01,Large
+MERCH_01105,Merchant_1105,Transportation,USA,2024-09-22,Large
+MERCH_01106,Merchant_1106,Education,USA,2024-02-23,Medium
+MERCH_01107,Merchant_1107,Travel,India,2024-03-28,Enterprise
+MERCH_01108,Merchant_1108,Utilities,UK,2024-01-30,Medium
+MERCH_01109,Merchant_1109,Transportation,USA,2024-08-22,Medium
+MERCH_01110,Merchant_1110,Entertainment,France,2024-10-06,Small
+MERCH_01111,Merchant_1111,Healthcare,USA,2024-01-23,Small
+MERCH_01112,Merchant_1112,Utilities,UK,2024-01-14,Large
+MERCH_01113,Merchant_1113,Food & Dining,USA,2024-04-16,Large
+MERCH_01114,Merchant_1114,Education,France,2024-09-09,Large
+MERCH_01115,Merchant_1115,Utilities,France,2024-10-03,Medium
+MERCH_01116,Merchant_1116,Healthcare,France,2024-02-15,Small
+MERCH_01117,Merchant_1117,Travel,USA,2024-01-02,Large
+MERCH_01118,Merchant_1118,Education,USA,2024-02-29,Small
+MERCH_01119,Merchant_1119,Healthcare,UK,2024-01-02,Medium
+MERCH_01120,Merchant_1120,Digital Services,USA,2024-05-07,Large
+MERCH_01121,Merchant_1121,Healthcare,France,2024-03-14,Small
+MERCH_01122,Merchant_1122,E-commerce,UAE,2024-01-03,Medium
+MERCH_01123,Merchant_1123,Retail,Germany,2024-09-14,Large
+MERCH_01124,Merchant_1124,Travel,UK,2024-03-18,Small
+MERCH_01125,Merchant_1125,Digital Services,UK,2024-05-02,Small
+MERCH_01126,Merchant_1126,E-commerce,India,2024-05-11,Small
+MERCH_01127,Merchant_1127,Utilities,USA,2024-02-19,Enterprise
+MERCH_01128,Merchant_1128,Entertainment,India,2024-07-26,Medium
+MERCH_01129,Merchant_1129,Travel,USA,2024-01-05,Medium
+MERCH_01130,Merchant_1130,Travel,Singapore,2024-01-13,Medium
+MERCH_01131,Merchant_1131,Utilities,USA,2024-10-22,Medium
+MERCH_01132,Merchant_1132,E-commerce,Australia,2024-08-25,Medium
+MERCH_01133,Merchant_1133,Entertainment,Germany,2024-06-26,Small
+MERCH_01134,Merchant_1134,Education,USA,2024-09-07,Small
+MERCH_01135,Merchant_1135,Utilities,USA,2024-09-23,Medium
+MERCH_01136,Merchant_1136,Transportation,France,2024-09-30,Large
+MERCH_01137,Merchant_1137,Travel,Canada,2024-06-30,Medium
+MERCH_01138,Merchant_1138,Healthcare,UAE,2024-02-28,Medium
+MERCH_01139,Merchant_1139,E-commerce,Canada,2024-07-24,Medium
+MERCH_01140,Merchant_1140,Digital Services,USA,2024-07-23,Medium
+MERCH_01141,Merchant_1141,Retail,USA,2024-02-13,Large
+MERCH_01142,Merchant_1142,Travel,UK,2024-10-15,Medium
+MERCH_01143,Merchant_1143,Utilities,Germany,2024-01-10,Small
+MERCH_01144,Merchant_1144,Entertainment,India,2024-09-12,Large
+MERCH_01145,Merchant_1145,Healthcare,Brazil,2024-07-21,Large
+MERCH_01146,Merchant_1146,Education,USA,2024-05-13,Medium
+MERCH_01147,Merchant_1147,Travel,Australia,2024-06-08,Medium
+MERCH_01148,Merchant_1148,Travel,USA,2024-05-16,Enterprise
+MERCH_01149,Merchant_1149,E-commerce,Germany,2024-01-25,Small
+MERCH_01150,Merchant_1150,Entertainment,Germany,2024-05-23,Large
+MERCH_01151,Merchant_1151,Travel,Canada,2024-04-24,Small
+MERCH_01152,Merchant_1152,Healthcare,Germany,2024-05-27,Large
+MERCH_01153,Merchant_1153,Education,USA,2024-07-23,Small
+MERCH_01154,Merchant_1154,Retail,USA,2024-02-08,Small
+MERCH_01155,Merchant_1155,Travel,UK,2024-08-10,Medium
+MERCH_01156,Merchant_1156,Digital Services,USA,2024-03-13,Small
+MERCH_01157,Merchant_1157,Transportation,USA,2024-03-05,Large
+MERCH_01158,Merchant_1158,Utilities,India,2024-03-27,Medium
+MERCH_01159,Merchant_1159,Education,USA,2024-08-26,Large
+MERCH_01160,Merchant_1160,Travel,Canada,2024-08-15,Small
+MERCH_01161,Merchant_1161,Travel,USA,2024-03-08,Small
+MERCH_01162,Merchant_1162,Healthcare,Germany,2024-08-08,Small
+MERCH_01163,Merchant_1163,Retail,USA,2024-02-23,Medium
+MERCH_01164,Merchant_1164,Food & Dining,France,2024-01-10,Medium
+MERCH_01165,Merchant_1165,Entertainment,India,2024-06-23,Enterprise
+MERCH_01166,Merchant_1166,Entertainment,USA,2024-05-17,Medium
+MERCH_01167,Merchant_1167,Education,USA,2024-01-20,Small
+MERCH_01168,Merchant_1168,Food & Dining,USA,2024-03-27,Small
+MERCH_01169,Merchant_1169,Education,USA,2024-07-14,Large
+MERCH_01170,Merchant_1170,Transportation,UAE,2024-01-10,Small
+MERCH_01171,Merchant_1171,Travel,UK,2024-04-02,Small
+MERCH_01172,Merchant_1172,Entertainment,Australia,2024-09-24,Medium
+MERCH_01173,Merchant_1173,Utilities,Germany,2024-06-03,Small
+MERCH_01174,Merchant_1174,Education,Brazil,2024-07-30,Small
+MERCH_01175,Merchant_1175,Transportation,India,2024-07-01,Large
+MERCH_01176,Merchant_1176,Entertainment,UK,2024-06-18,Small
+MERCH_01177,Merchant_1177,Travel,USA,2024-10-26,Medium
+MERCH_01178,Merchant_1178,Education,Australia,2024-03-13,Medium
+MERCH_01179,Merchant_1179,E-commerce,USA,2024-02-16,Small
+MERCH_01180,Merchant_1180,Utilities,Australia,2024-09-28,Medium
+MERCH_01181,Merchant_1181,Retail,UK,2024-06-11,Large
+MERCH_01182,Merchant_1182,Education,Canada,2024-07-15,Large
+MERCH_01183,Merchant_1183,E-commerce,USA,2024-10-03,Large
+MERCH_01184,Merchant_1184,Healthcare,USA,2024-09-16,Small
+MERCH_01185,Merchant_1185,Food & Dining,USA,2024-07-24,Large
+MERCH_01186,Merchant_1186,Transportation,USA,2024-05-08,Medium
+MERCH_01187,Merchant_1187,Entertainment,USA,2024-10-21,Small
+MERCH_01188,Merchant_1188,Utilities,Germany,2024-04-21,Small
+MERCH_01189,Merchant_1189,Utilities,USA,2024-04-08,Small
+MERCH_01190,Merchant_1190,Food & Dining,USA,2024-10-26,Medium
+MERCH_01191,Merchant_1191,Retail,UK,2024-08-18,Small
+MERCH_01192,Merchant_1192,Education,Canada,2024-05-20,Medium
+MERCH_01193,Merchant_1193,Healthcare,USA,2024-06-29,Medium
+MERCH_01194,Merchant_1194,Transportation,France,2024-04-07,Small
+MERCH_01195,Merchant_1195,Travel,USA,2024-02-02,Large
+MERCH_01196,Merchant_1196,Transportation,USA,2024-09-29,Small
+MERCH_01197,Merchant_1197,Healthcare,USA,2024-01-22,Small
+MERCH_01198,Merchant_1198,Retail,USA,2024-03-31,Large
+MERCH_01199,Merchant_1199,Transportation,USA,2024-04-29,Medium
+MERCH_01200,Merchant_1200,Education,UK,2024-10-04,Small
+MERCH_01201,Merchant_1201,Utilities,Germany,2024-05-30,Medium
+MERCH_01202,Merchant_1202,E-commerce,UAE,2024-10-11,Medium
+MERCH_01203,Merchant_1203,E-commerce,Canada,2024-08-13,Small
+MERCH_01204,Merchant_1204,Utilities,Australia,2024-07-29,Large
+MERCH_01205,Merchant_1205,E-commerce,UK,2024-02-13,Medium
+MERCH_01206,Merchant_1206,Utilities,Australia,2024-06-04,Large
+MERCH_01207,Merchant_1207,Transportation,France,2024-06-04,Large
+MERCH_01208,Merchant_1208,Healthcare,Canada,2024-05-10,Small
+MERCH_01209,Merchant_1209,Retail,UK,2024-04-24,Small
+MERCH_01210,Merchant_1210,E-commerce,India,2024-04-24,Medium
+MERCH_01211,Merchant_1211,Healthcare,USA,2024-08-13,Large
+MERCH_01212,Merchant_1212,E-commerce,Canada,2024-04-28,Medium
+MERCH_01213,Merchant_1213,Food & Dining,Brazil,2024-07-12,Small
+MERCH_01214,Merchant_1214,E-commerce,USA,2024-01-19,Small
+MERCH_01215,Merchant_1215,Utilities,USA,2024-02-01,Medium
+MERCH_01216,Merchant_1216,Digital Services,USA,2024-09-19,Medium
+MERCH_01217,Merchant_1217,Utilities,UK,2024-06-17,Large
+MERCH_01218,Merchant_1218,Transportation,France,2024-08-12,Medium
+MERCH_01219,Merchant_1219,Utilities,USA,2024-06-22,Large
+MERCH_01220,Merchant_1220,Digital Services,Canada,2024-04-24,Medium
+MERCH_01221,Merchant_1221,Entertainment,India,2024-08-27,Medium
+MERCH_01222,Merchant_1222,Healthcare,UK,2024-06-05,Small
+MERCH_01223,Merchant_1223,Transportation,USA,2024-08-14,Small
+MERCH_01224,Merchant_1224,Education,Canada,2024-07-19,Medium
+MERCH_01225,Merchant_1225,Retail,Germany,2024-04-20,Medium
+MERCH_01226,Merchant_1226,Digital Services,Singapore,2024-02-23,Small
+MERCH_01227,Merchant_1227,Travel,Brazil,2024-09-27,Medium
+MERCH_01228,Merchant_1228,Entertainment,USA,2024-04-21,Small
+MERCH_01229,Merchant_1229,Education,USA,2024-05-10,Small
+MERCH_01230,Merchant_1230,Food & Dining,Singapore,2024-04-02,Small
+MERCH_01231,Merchant_1231,Travel,Canada,2024-10-20,Medium
+MERCH_01232,Merchant_1232,Digital Services,USA,2024-01-09,Medium
+MERCH_01233,Merchant_1233,Retail,USA,2024-01-07,Large
+MERCH_01234,Merchant_1234,Retail,India,2024-03-22,Large
+MERCH_01235,Merchant_1235,Retail,Australia,2024-05-26,Small
+MERCH_01236,Merchant_1236,E-commerce,USA,2024-03-25,Small
+MERCH_01237,Merchant_1237,Food & Dining,USA,2024-09-06,Enterprise
+MERCH_01238,Merchant_1238,Transportation,Germany,2024-10-02,Medium
+MERCH_01239,Merchant_1239,Healthcare,Germany,2024-06-24,Medium
+MERCH_01240,Merchant_1240,E-commerce,France,2024-03-21,Small
+MERCH_01241,Merchant_1241,Retail,USA,2024-04-13,Small
+MERCH_01242,Merchant_1242,Food & Dining,Brazil,2024-05-31,Small
+MERCH_01243,Merchant_1243,Entertainment,USA,2024-07-23,Medium
+MERCH_01244,Merchant_1244,Healthcare,Canada,2024-02-10,Small
+MERCH_01245,Merchant_1245,Food & Dining,USA,2024-06-11,Medium
+MERCH_01246,Merchant_1246,Healthcare,UK,2024-02-05,Small
+MERCH_01247,Merchant_1247,Food & Dining,USA,2024-03-22,Small
+MERCH_01248,Merchant_1248,Education,Australia,2024-02-27,Small
+MERCH_01249,Merchant_1249,Education,Australia,2024-08-06,Enterprise
+MERCH_01250,Merchant_1250,Transportation,Germany,2024-09-08,Medium
+MERCH_01251,Merchant_1251,Food & Dining,Canada,2024-07-25,Small
+MERCH_01252,Merchant_1252,E-commerce,UK,2024-01-03,Medium
+MERCH_01253,Merchant_1253,Education,UK,2024-09-24,Medium
+MERCH_01254,Merchant_1254,Travel,Australia,2024-07-28,Enterprise
+MERCH_01255,Merchant_1255,Education,India,2024-01-23,Medium
+MERCH_01256,Merchant_1256,Entertainment,Canada,2024-02-15,Medium
+MERCH_01257,Merchant_1257,Digital Services,France,2024-01-11,Medium
+MERCH_01258,Merchant_1258,Entertainment,USA,2024-07-12,Small
+MERCH_01259,Merchant_1259,Entertainment,Brazil,2024-08-06,Small
+MERCH_01260,Merchant_1260,Food & Dining,India,2024-06-11,Medium
+MERCH_01261,Merchant_1261,Travel,USA,2024-09-15,Large
+MERCH_01262,Merchant_1262,Food & Dining,India,2024-08-16,Small
+MERCH_01263,Merchant_1263,Retail,UAE,2024-09-14,Small
+MERCH_01264,Merchant_1264,Retail,USA,2024-03-22,Small
+MERCH_01265,Merchant_1265,Healthcare,Canada,2024-06-07,Large
+MERCH_01266,Merchant_1266,Entertainment,USA,2024-03-07,Large
+MERCH_01267,Merchant_1267,Education,Australia,2024-07-08,Small
+MERCH_01268,Merchant_1268,Education,Canada,2024-08-03,Small
+MERCH_01269,Merchant_1269,Utilities,India,2024-07-03,Medium
+MERCH_01270,Merchant_1270,Entertainment,Brazil,2024-10-09,Small
+MERCH_01271,Merchant_1271,Travel,India,2024-03-07,Medium
+MERCH_01272,Merchant_1272,Transportation,USA,2024-10-22,Small
+MERCH_01273,Merchant_1273,Travel,India,2024-04-21,Small
+MERCH_01274,Merchant_1274,Digital Services,USA,2024-10-12,Small
+MERCH_01275,Merchant_1275,Education,USA,2024-06-17,Small
+MERCH_01276,Merchant_1276,E-commerce,Brazil,2024-05-08,Medium
+MERCH_01277,Merchant_1277,E-commerce,Australia,2024-01-22,Small
+MERCH_01278,Merchant_1278,Retail,India,2024-06-02,Small
+MERCH_01279,Merchant_1279,Travel,Singapore,2024-05-30,Small
+MERCH_01280,Merchant_1280,Healthcare,UK,2024-06-21,Medium
+MERCH_01281,Merchant_1281,Transportation,Canada,2024-01-10,Medium
+MERCH_01282,Merchant_1282,Education,UAE,2024-04-29,Small
+MERCH_01283,Merchant_1283,Digital Services,Brazil,2024-10-21,Small
+MERCH_01284,Merchant_1284,Utilities,Germany,2024-10-08,Large
+MERCH_01285,Merchant_1285,E-commerce,USA,2024-07-23,Enterprise
+MERCH_01286,Merchant_1286,Digital Services,France,2024-04-09,Medium
+MERCH_01287,Merchant_1287,Utilities,Singapore,2024-09-26,Medium
+MERCH_01288,Merchant_1288,Retail,Australia,2024-04-11,Small
+MERCH_01289,Merchant_1289,Healthcare,France,2024-05-09,Small
+MERCH_01290,Merchant_1290,E-commerce,USA,2024-07-12,Medium
+MERCH_01291,Merchant_1291,Food & Dining,Germany,2024-07-18,Large
+MERCH_01292,Merchant_1292,Digital Services,USA,2024-01-12,Large
+MERCH_01293,Merchant_1293,Retail,India,2024-09-24,Small
+MERCH_01294,Merchant_1294,Travel,USA,2024-03-02,Medium
+MERCH_01295,Merchant_1295,Transportation,USA,2024-05-11,Small
+MERCH_01296,Merchant_1296,Retail,USA,2024-05-30,Medium
+MERCH_01297,Merchant_1297,Entertainment,USA,2024-09-28,Small
+MERCH_01298,Merchant_1298,Entertainment,USA,2024-07-19,Small
+MERCH_01299,Merchant_1299,Healthcare,USA,2024-01-23,Small
+MERCH_01300,Merchant_1300,Utilities,USA,2024-03-11,Medium
+MERCH_01301,Merchant_1301,E-commerce,UK,2024-07-26,Large
+MERCH_01302,Merchant_1302,E-commerce,Germany,2024-06-18,Large
+MERCH_01303,Merchant_1303,Travel,France,2024-04-25,Medium
+MERCH_01304,Merchant_1304,Travel,USA,2024-04-03,Medium
+MERCH_01305,Merchant_1305,Travel,USA,2024-10-11,Large
+MERCH_01306,Merchant_1306,Digital Services,India,2024-04-24,Medium
+MERCH_01307,Merchant_1307,Digital Services,USA,2024-02-09,Medium
+MERCH_01308,Merchant_1308,Travel,USA,2024-06-25,Small
+MERCH_01309,Merchant_1309,Utilities,USA,2024-04-13,Large
+MERCH_01310,Merchant_1310,Digital Services,UK,2024-01-12,Large
+MERCH_01311,Merchant_1311,Travel,France,2024-09-02,Small
+MERCH_01312,Merchant_1312,Entertainment,Australia,2024-01-09,Small
+MERCH_01313,Merchant_1313,E-commerce,USA,2024-08-26,Small
+MERCH_01314,Merchant_1314,E-commerce,USA,2024-02-23,Medium
+MERCH_01315,Merchant_1315,Education,UK,2024-01-22,Medium
+MERCH_01316,Merchant_1316,Entertainment,USA,2024-05-29,Medium
+MERCH_01317,Merchant_1317,Education,USA,2024-09-26,Small
+MERCH_01318,Merchant_1318,Food & Dining,Canada,2024-09-11,Small
+MERCH_01319,Merchant_1319,Education,Germany,2024-09-21,Small
+MERCH_01320,Merchant_1320,Healthcare,India,2024-08-05,Small
+MERCH_01321,Merchant_1321,Travel,Singapore,2024-01-12,Large
+MERCH_01322,Merchant_1322,Education,Germany,2024-02-08,Small
+MERCH_01323,Merchant_1323,Entertainment,Australia,2024-07-02,Large
+MERCH_01324,Merchant_1324,Travel,Brazil,2024-02-01,Small
+MERCH_01325,Merchant_1325,Entertainment,India,2024-09-20,Medium
+MERCH_01326,Merchant_1326,Entertainment,USA,2024-04-25,Small
+MERCH_01327,Merchant_1327,Entertainment,Canada,2024-05-02,Medium
+MERCH_01328,Merchant_1328,Utilities,Australia,2024-05-21,Medium
+MERCH_01329,Merchant_1329,Digital Services,UK,2024-06-12,Small
+MERCH_01330,Merchant_1330,Healthcare,Canada,2024-02-06,Large
+MERCH_01331,Merchant_1331,Education,UK,2024-04-01,Small
+MERCH_01332,Merchant_1332,Education,UK,2024-09-27,Medium
+MERCH_01333,Merchant_1333,E-commerce,UK,2024-03-17,Small
+MERCH_01334,Merchant_1334,Food & Dining,Australia,2024-05-08,Small
+MERCH_01335,Merchant_1335,Healthcare,Singapore,2024-06-26,Medium
+MERCH_01336,Merchant_1336,Entertainment,UK,2024-05-19,Small
+MERCH_01337,Merchant_1337,Transportation,Brazil,2024-02-14,Large
+MERCH_01338,Merchant_1338,Healthcare,Brazil,2024-09-17,Small
+MERCH_01339,Merchant_1339,E-commerce,UK,2024-04-16,Medium
+MERCH_01340,Merchant_1340,Healthcare,USA,2024-04-12,Medium
+MERCH_01341,Merchant_1341,Food & Dining,USA,2024-09-11,Medium
+MERCH_01342,Merchant_1342,Travel,UK,2024-10-13,Small
+MERCH_01343,Merchant_1343,Utilities,USA,2024-09-23,Small
+MERCH_01344,Merchant_1344,Education,USA,2024-02-25,Medium
+MERCH_01345,Merchant_1345,Retail,UK,2024-06-04,Small
+MERCH_01346,Merchant_1346,Travel,France,2024-09-08,Small
+MERCH_01347,Merchant_1347,Education,USA,2024-06-06,Large
+MERCH_01348,Merchant_1348,E-commerce,Brazil,2024-03-15,Medium
+MERCH_01349,Merchant_1349,Digital Services,USA,2024-06-28,Enterprise
+MERCH_01350,Merchant_1350,Entertainment,Canada,2024-01-13,Small
+MERCH_01351,Merchant_1351,Entertainment,Canada,2024-08-22,Large
+MERCH_01352,Merchant_1352,Healthcare,UK,2024-06-06,Medium
+MERCH_01353,Merchant_1353,Education,Canada,2024-04-23,Small
+MERCH_01354,Merchant_1354,Food & Dining,Brazil,2024-09-26,Small
+MERCH_01355,Merchant_1355,Digital Services,UK,2024-03-09,Small
+MERCH_01356,Merchant_1356,Digital Services,UK,2024-01-24,Small
+MERCH_01357,Merchant_1357,Entertainment,France,2024-04-12,Large
+MERCH_01358,Merchant_1358,Travel,Germany,2024-07-01,Small
+MERCH_01359,Merchant_1359,Education,France,2024-01-31,Small
+MERCH_01360,Merchant_1360,Utilities,USA,2024-01-29,Large
+MERCH_01361,Merchant_1361,Entertainment,France,2024-08-14,Small
+MERCH_01362,Merchant_1362,Utilities,Australia,2024-09-17,Small
+MERCH_01363,Merchant_1363,Travel,Singapore,2024-08-07,Large
+MERCH_01364,Merchant_1364,Food & Dining,Germany,2024-08-16,Small
+MERCH_01365,Merchant_1365,E-commerce,Germany,2024-08-16,Small
+MERCH_01366,Merchant_1366,E-commerce,Canada,2024-06-19,Medium
+MERCH_01367,Merchant_1367,Healthcare,Australia,2024-06-20,Large
+MERCH_01368,Merchant_1368,Education,Germany,2024-01-01,Large
+MERCH_01369,Merchant_1369,Entertainment,USA,2024-01-18,Small
+MERCH_01370,Merchant_1370,Retail,Canada,2024-06-13,Medium
+MERCH_01371,Merchant_1371,Utilities,UK,2024-04-07,Large
+MERCH_01372,Merchant_1372,Transportation,Canada,2024-06-12,Small
+MERCH_01373,Merchant_1373,Entertainment,Germany,2024-09-04,Small
+MERCH_01374,Merchant_1374,E-commerce,USA,2024-07-15,Large
+MERCH_01375,Merchant_1375,Travel,Germany,2024-01-31,Small
+MERCH_01376,Merchant_1376,Retail,France,2024-04-22,Small
+MERCH_01377,Merchant_1377,Food & Dining,USA,2024-07-19,Medium
+MERCH_01378,Merchant_1378,Retail,Germany,2024-08-19,Medium
+MERCH_01379,Merchant_1379,Food & Dining,UK,2024-04-16,Small
+MERCH_01380,Merchant_1380,E-commerce,USA,2024-04-21,Small
+MERCH_01381,Merchant_1381,Utilities,India,2024-07-18,Medium
+MERCH_01382,Merchant_1382,Entertainment,UK,2024-02-04,Small
+MERCH_01383,Merchant_1383,Utilities,Canada,2024-05-17,Medium
+MERCH_01384,Merchant_1384,Transportation,USA,2024-04-02,Medium
+MERCH_01385,Merchant_1385,Retail,USA,2024-05-09,Small
+MERCH_01386,Merchant_1386,Food & Dining,USA,2024-08-29,Small
+MERCH_01387,Merchant_1387,Digital Services,USA,2024-05-23,Medium
+MERCH_01388,Merchant_1388,Food & Dining,UK,2024-02-13,Small
+MERCH_01389,Merchant_1389,Education,Canada,2024-07-01,Medium
+MERCH_01390,Merchant_1390,Healthcare,UK,2024-02-17,Small
+MERCH_01391,Merchant_1391,Food & Dining,Canada,2024-08-10,Enterprise
+MERCH_01392,Merchant_1392,Utilities,India,2024-04-24,Small
+MERCH_01393,Merchant_1393,Food & Dining,USA,2024-03-17,Small
+MERCH_01394,Merchant_1394,Transportation,Singapore,2024-06-10,Small
+MERCH_01395,Merchant_1395,Food & Dining,Canada,2024-08-11,Small
+MERCH_01396,Merchant_1396,Digital Services,Canada,2024-07-31,Medium
+MERCH_01397,Merchant_1397,Digital Services,Canada,2024-02-02,Small
+MERCH_01398,Merchant_1398,Transportation,UK,2024-05-20,Medium
+MERCH_01399,Merchant_1399,Transportation,Germany,2024-09-17,Medium
+MERCH_01400,Merchant_1400,E-commerce,France,2024-03-21,Small
+MERCH_01401,Merchant_1401,Utilities,Germany,2024-05-15,Small
+MERCH_01402,Merchant_1402,Food & Dining,Australia,2024-05-03,Medium
+MERCH_01403,Merchant_1403,Utilities,USA,2024-08-01,Large
+MERCH_01404,Merchant_1404,Travel,USA,2024-06-03,Small
+MERCH_01405,Merchant_1405,Transportation,Brazil,2024-10-06,Medium
+MERCH_01406,Merchant_1406,Digital Services,UK,2024-06-24,Small
+MERCH_01407,Merchant_1407,Utilities,USA,2024-02-08,Large
+MERCH_01408,Merchant_1408,Transportation,USA,2024-08-15,Small
+MERCH_01409,Merchant_1409,Retail,UK,2024-09-27,Large
+MERCH_01410,Merchant_1410,E-commerce,UK,2024-03-23,Medium
+MERCH_01411,Merchant_1411,Transportation,France,2024-08-18,Small
+MERCH_01412,Merchant_1412,Education,India,2024-07-04,Small
+MERCH_01413,Merchant_1413,Utilities,USA,2024-09-10,Large
+MERCH_01414,Merchant_1414,E-commerce,USA,2024-08-30,Large
+MERCH_01415,Merchant_1415,Food & Dining,Canada,2024-04-13,Medium
+MERCH_01416,Merchant_1416,Transportation,Germany,2024-01-31,Large
+MERCH_01417,Merchant_1417,Digital Services,UAE,2024-07-17,Small
+MERCH_01418,Merchant_1418,Transportation,USA,2024-02-04,Medium
+MERCH_01419,Merchant_1419,E-commerce,USA,2024-05-13,Small
+MERCH_01420,Merchant_1420,Utilities,USA,2024-07-19,Medium
+MERCH_01421,Merchant_1421,Healthcare,USA,2024-01-16,Small
+MERCH_01422,Merchant_1422,Entertainment,UK,2024-02-10,Large
+MERCH_01423,Merchant_1423,Travel,USA,2024-09-09,Small
+MERCH_01424,Merchant_1424,Utilities,USA,2024-05-10,Small
+MERCH_01425,Merchant_1425,E-commerce,Singapore,2024-02-14,Small
+MERCH_01426,Merchant_1426,Retail,Germany,2024-07-12,Large
+MERCH_01427,Merchant_1427,Food & Dining,UK,2024-06-05,Medium
+MERCH_01428,Merchant_1428,Travel,USA,2024-01-14,Small
+MERCH_01429,Merchant_1429,Travel,USA,2024-01-31,Medium
+MERCH_01430,Merchant_1430,Digital Services,USA,2024-02-01,Medium
+MERCH_01431,Merchant_1431,E-commerce,USA,2024-03-20,Medium
+MERCH_01432,Merchant_1432,Healthcare,USA,2024-06-16,Small
+MERCH_01433,Merchant_1433,Healthcare,Canada,2024-07-30,Medium
+MERCH_01434,Merchant_1434,Education,USA,2024-09-18,Small
+MERCH_01435,Merchant_1435,Retail,USA,2024-04-13,Small
+MERCH_01436,Merchant_1436,Retail,France,2024-06-17,Small
+MERCH_01437,Merchant_1437,Retail,UK,2024-08-06,Large
+MERCH_01438,Merchant_1438,Retail,USA,2024-03-05,Small
+MERCH_01439,Merchant_1439,Food & Dining,Australia,2024-08-16,Large
+MERCH_01440,Merchant_1440,Retail,Singapore,2024-09-23,Small
+MERCH_01441,Merchant_1441,Retail,Australia,2024-05-07,Small
+MERCH_01442,Merchant_1442,Transportation,USA,2024-10-12,Large
+MERCH_01443,Merchant_1443,Retail,Singapore,2024-08-30,Small
+MERCH_01444,Merchant_1444,Travel,UK,2024-09-01,Large
+MERCH_01445,Merchant_1445,Entertainment,India,2024-09-02,Small
+MERCH_01446,Merchant_1446,Travel,Australia,2024-07-14,Medium
+MERCH_01447,Merchant_1447,Food & Dining,USA,2024-06-17,Small
+MERCH_01448,Merchant_1448,E-commerce,France,2024-05-13,Small
+MERCH_01449,Merchant_1449,Transportation,USA,2024-01-01,Large
+MERCH_01450,Merchant_1450,E-commerce,USA,2024-03-09,Small
+MERCH_01451,Merchant_1451,Travel,UK,2024-04-24,Medium
+MERCH_01452,Merchant_1452,Education,India,2024-06-01,Small
+MERCH_01453,Merchant_1453,E-commerce,India,2024-08-29,Medium
+MERCH_01454,Merchant_1454,Education,Canada,2024-03-03,Small
+MERCH_01455,Merchant_1455,Education,UAE,2024-05-24,Small
+MERCH_01456,Merchant_1456,Travel,Germany,2024-06-25,Small
+MERCH_01457,Merchant_1457,Food & Dining,France,2024-02-28,Small
+MERCH_01458,Merchant_1458,E-commerce,Canada,2024-04-08,Small
+MERCH_01459,Merchant_1459,Travel,USA,2024-08-19,Small
+MERCH_01460,Merchant_1460,Transportation,UK,2024-05-19,Medium
+MERCH_01461,Merchant_1461,Travel,USA,2024-01-04,Small
+MERCH_01462,Merchant_1462,Education,USA,2024-03-06,Medium
+MERCH_01463,Merchant_1463,Retail,Germany,2024-09-29,Medium
+MERCH_01464,Merchant_1464,E-commerce,USA,2024-03-24,Large
+MERCH_01465,Merchant_1465,Food & Dining,USA,2024-08-02,Small
+MERCH_01466,Merchant_1466,E-commerce,Canada,2024-07-01,Small
+MERCH_01467,Merchant_1467,Travel,Brazil,2024-08-08,Medium
+MERCH_01468,Merchant_1468,Entertainment,UK,2024-06-24,Large
+MERCH_01469,Merchant_1469,Education,UK,2024-04-02,Medium
+MERCH_01470,Merchant_1470,Transportation,Canada,2024-10-18,Large
+MERCH_01471,Merchant_1471,Transportation,USA,2024-04-24,Small
+MERCH_01472,Merchant_1472,Retail,UK,2024-07-11,Small
+MERCH_01473,Merchant_1473,Transportation,USA,2024-09-02,Medium
+MERCH_01474,Merchant_1474,Healthcare,USA,2024-07-04,Large
+MERCH_01475,Merchant_1475,Education,India,2024-07-17,Small
+MERCH_01476,Merchant_1476,Food & Dining,Singapore,2024-04-01,Medium
+MERCH_01477,Merchant_1477,Food & Dining,USA,2024-08-20,Medium
+MERCH_01478,Merchant_1478,Transportation,UK,2024-07-08,Small
+MERCH_01479,Merchant_1479,Utilities,India,2024-05-08,Medium
+MERCH_01480,Merchant_1480,Travel,UK,2024-06-23,Medium
+MERCH_01481,Merchant_1481,Education,UK,2024-05-12,Small
+MERCH_01482,Merchant_1482,Food & Dining,Australia,2024-01-08,Medium
+MERCH_01483,Merchant_1483,E-commerce,USA,2024-04-29,Medium
+MERCH_01484,Merchant_1484,Food & Dining,Canada,2024-06-05,Small
+MERCH_01485,Merchant_1485,Digital Services,USA,2024-10-26,Small
+MERCH_01486,Merchant_1486,Healthcare,Australia,2024-09-18,Small
+MERCH_01487,Merchant_1487,Transportation,USA,2024-10-20,Medium
+MERCH_01488,Merchant_1488,Transportation,UK,2024-05-06,Small
+MERCH_01489,Merchant_1489,Food & Dining,Canada,2024-08-17,Medium
+MERCH_01490,Merchant_1490,E-commerce,Canada,2024-07-03,Medium
+MERCH_01491,Merchant_1491,Retail,UK,2024-07-02,Enterprise
+MERCH_01492,Merchant_1492,Healthcare,USA,2024-06-17,Large
+MERCH_01493,Merchant_1493,Healthcare,France,2024-05-01,Large
+MERCH_01494,Merchant_1494,Retail,USA,2024-07-23,Small
+MERCH_01495,Merchant_1495,Food & Dining,USA,2024-06-01,Medium
+MERCH_01496,Merchant_1496,Utilities,India,2024-03-27,Small
+MERCH_01497,Merchant_1497,Education,USA,2024-04-02,Large
+MERCH_01498,Merchant_1498,Entertainment,USA,2024-01-26,Large
+MERCH_01499,Merchant_1499,Entertainment,USA,2024-10-23,Small
+MERCH_01500,Merchant_1500,Transportation,USA,2024-05-14,Medium
+MERCH_01501,Merchant_1501,Transportation,Canada,2024-08-12,Small
+MERCH_01502,Merchant_1502,Digital Services,USA,2024-01-18,Small
+MERCH_01503,Merchant_1503,Healthcare,Germany,2024-06-18,Small
+MERCH_01504,Merchant_1504,Utilities,USA,2024-05-11,Large
+MERCH_01505,Merchant_1505,Travel,USA,2024-05-13,Small
+MERCH_01506,Merchant_1506,Healthcare,USA,2024-09-10,Small
+MERCH_01507,Merchant_1507,Education,UK,2024-07-22,Medium
+MERCH_01508,Merchant_1508,Travel,UK,2024-07-02,Small
+MERCH_01509,Merchant_1509,Education,USA,2024-09-15,Small
+MERCH_01510,Merchant_1510,Food & Dining,Australia,2024-04-12,Large
+MERCH_01511,Merchant_1511,Travel,India,2024-01-06,Medium
+MERCH_01512,Merchant_1512,Healthcare,Germany,2024-02-04,Enterprise
+MERCH_01513,Merchant_1513,Retail,USA,2024-10-14,Small
+MERCH_01514,Merchant_1514,Healthcare,France,2024-08-27,Small
+MERCH_01515,Merchant_1515,Entertainment,USA,2024-07-16,Enterprise
+MERCH_01516,Merchant_1516,Healthcare,France,2024-03-25,Large
+MERCH_01517,Merchant_1517,Travel,Singapore,2024-08-16,Large
+MERCH_01518,Merchant_1518,Education,Germany,2024-02-01,Small
+MERCH_01519,Merchant_1519,Travel,Canada,2024-05-19,Large
+MERCH_01520,Merchant_1520,Retail,Australia,2024-05-02,Large
+MERCH_01521,Merchant_1521,Healthcare,USA,2024-09-18,Small
+MERCH_01522,Merchant_1522,Transportation,USA,2024-10-03,Small
+MERCH_01523,Merchant_1523,Entertainment,Canada,2024-06-18,Enterprise
+MERCH_01524,Merchant_1524,Food & Dining,UK,2024-03-16,Medium
+MERCH_01525,Merchant_1525,Utilities,USA,2024-09-22,Medium
+MERCH_01526,Merchant_1526,Education,India,2024-08-18,Large
+MERCH_01527,Merchant_1527,Utilities,UAE,2024-02-02,Small
+MERCH_01528,Merchant_1528,E-commerce,Brazil,2024-06-29,Medium
+MERCH_01529,Merchant_1529,Transportation,Canada,2024-09-22,Medium
+MERCH_01530,Merchant_1530,Retail,Australia,2024-04-29,Small
+MERCH_01531,Merchant_1531,Digital Services,USA,2024-05-18,Medium
+MERCH_01532,Merchant_1532,Entertainment,India,2024-05-16,Small
+MERCH_01533,Merchant_1533,E-commerce,USA,2024-04-25,Medium
+MERCH_01534,Merchant_1534,Entertainment,Australia,2024-01-13,Enterprise
+MERCH_01535,Merchant_1535,Education,UK,2024-03-08,Small
+MERCH_01536,Merchant_1536,Food & Dining,Australia,2024-10-25,Medium
+MERCH_01537,Merchant_1537,Travel,USA,2024-08-26,Medium
+MERCH_01538,Merchant_1538,Entertainment,France,2024-05-02,Small
+MERCH_01539,Merchant_1539,Digital Services,Canada,2024-10-08,Small
+MERCH_01540,Merchant_1540,Entertainment,Canada,2024-06-11,Small
+MERCH_01541,Merchant_1541,Entertainment,USA,2024-06-08,Small
+MERCH_01542,Merchant_1542,E-commerce,UK,2024-05-18,Medium
+MERCH_01543,Merchant_1543,Retail,Australia,2024-03-31,Medium
+MERCH_01544,Merchant_1544,Travel,UK,2024-05-23,Small
+MERCH_01545,Merchant_1545,Travel,France,2024-02-01,Large
+MERCH_01546,Merchant_1546,Education,Canada,2024-03-20,Medium
+MERCH_01547,Merchant_1547,Education,USA,2024-05-12,Medium
+MERCH_01548,Merchant_1548,Travel,Singapore,2024-10-01,Small
+MERCH_01549,Merchant_1549,E-commerce,Germany,2024-01-04,Medium
+MERCH_01550,Merchant_1550,Entertainment,Germany,2024-06-03,Medium
+MERCH_01551,Merchant_1551,Education,USA,2024-08-05,Small
+MERCH_01552,Merchant_1552,Education,Australia,2024-09-20,Large
+MERCH_01553,Merchant_1553,Utilities,UK,2024-09-25,Small
+MERCH_01554,Merchant_1554,Digital Services,UK,2024-07-16,Small
+MERCH_01555,Merchant_1555,Travel,France,2024-10-12,Medium
+MERCH_01556,Merchant_1556,Healthcare,India,2024-01-24,Small
+MERCH_01557,Merchant_1557,Healthcare,UK,2024-10-03,Medium
+MERCH_01558,Merchant_1558,Healthcare,Canada,2024-08-19,Small
+MERCH_01559,Merchant_1559,Food & Dining,India,2024-07-24,Small
+MERCH_01560,Merchant_1560,Education,Brazil,2024-04-12,Medium
+MERCH_01561,Merchant_1561,E-commerce,France,2024-05-10,Small
+MERCH_01562,Merchant_1562,E-commerce,USA,2024-03-30,Medium
+MERCH_01563,Merchant_1563,Entertainment,USA,2024-09-06,Large
+MERCH_01564,Merchant_1564,Digital Services,India,2024-03-25,Small
+MERCH_01565,Merchant_1565,Travel,Canada,2024-06-06,Medium
+MERCH_01566,Merchant_1566,Digital Services,USA,2024-08-12,Small
+MERCH_01567,Merchant_1567,Food & Dining,USA,2024-08-26,Large
+MERCH_01568,Merchant_1568,Transportation,Canada,2024-02-23,Small
+MERCH_01569,Merchant_1569,Digital Services,Canada,2024-02-27,Small
+MERCH_01570,Merchant_1570,Utilities,Brazil,2024-06-28,Medium
+MERCH_01571,Merchant_1571,Transportation,France,2024-08-16,Medium
+MERCH_01572,Merchant_1572,Travel,UK,2024-10-08,Medium
+MERCH_01573,Merchant_1573,Digital Services,India,2024-08-21,Enterprise
+MERCH_01574,Merchant_1574,Entertainment,USA,2024-04-09,Small
+MERCH_01575,Merchant_1575,Education,Canada,2024-09-02,Small
+MERCH_01576,Merchant_1576,Transportation,Australia,2024-10-01,Small
+MERCH_01577,Merchant_1577,Travel,Australia,2024-02-13,Small
+MERCH_01578,Merchant_1578,Transportation,UK,2024-06-23,Small
+MERCH_01579,Merchant_1579,Retail,Brazil,2024-07-27,Large
+MERCH_01580,Merchant_1580,E-commerce,USA,2024-03-03,Small
+MERCH_01581,Merchant_1581,Healthcare,USA,2024-07-25,Large
+MERCH_01582,Merchant_1582,Utilities,USA,2024-03-21,Small
+MERCH_01583,Merchant_1583,Food & Dining,Australia,2024-02-03,Small
+MERCH_01584,Merchant_1584,Education,USA,2024-09-07,Medium
+MERCH_01585,Merchant_1585,Healthcare,France,2024-04-18,Small
+MERCH_01586,Merchant_1586,Transportation,USA,2024-07-12,Medium
+MERCH_01587,Merchant_1587,Education,Canada,2024-08-30,Small
+MERCH_01588,Merchant_1588,Retail,USA,2024-02-13,Small
+MERCH_01589,Merchant_1589,Transportation,USA,2024-04-30,Small
+MERCH_01590,Merchant_1590,Utilities,USA,2024-09-27,Large
+MERCH_01591,Merchant_1591,E-commerce,USA,2024-09-10,Small
+MERCH_01592,Merchant_1592,Entertainment,USA,2024-04-11,Medium
+MERCH_01593,Merchant_1593,E-commerce,USA,2024-02-02,Medium
+MERCH_01594,Merchant_1594,Utilities,UAE,2024-05-29,Small
+MERCH_01595,Merchant_1595,Retail,UAE,2024-01-11,Enterprise
+MERCH_01596,Merchant_1596,Healthcare,India,2024-04-20,Medium
+MERCH_01597,Merchant_1597,Food & Dining,India,2024-02-08,Medium
+MERCH_01598,Merchant_1598,Travel,Canada,2024-10-18,Medium
+MERCH_01599,Merchant_1599,Entertainment,USA,2024-03-01,Small
+MERCH_01600,Merchant_1600,Digital Services,UAE,2024-07-22,Medium
+MERCH_01601,Merchant_1601,Travel,USA,2024-08-05,Small
+MERCH_01602,Merchant_1602,Entertainment,Canada,2024-07-31,Small
+MERCH_01603,Merchant_1603,Food & Dining,UK,2024-03-02,Enterprise
+MERCH_01604,Merchant_1604,Education,USA,2024-08-05,Large
+MERCH_01605,Merchant_1605,Retail,UK,2024-03-27,Large
+MERCH_01606,Merchant_1606,Food & Dining,Canada,2024-06-08,Large
+MERCH_01607,Merchant_1607,Travel,USA,2024-07-22,Medium
+MERCH_01608,Merchant_1608,Digital Services,USA,2024-10-06,Small
+MERCH_01609,Merchant_1609,Retail,France,2024-09-24,Small
+MERCH_01610,Merchant_1610,Healthcare,UK,2024-10-22,Small
+MERCH_01611,Merchant_1611,Healthcare,Germany,2024-08-08,Small
+MERCH_01612,Merchant_1612,Travel,Australia,2024-09-02,Medium
+MERCH_01613,Merchant_1613,Travel,Germany,2024-07-20,Small
+MERCH_01614,Merchant_1614,Healthcare,France,2024-03-29,Medium
+MERCH_01615,Merchant_1615,Transportation,Brazil,2024-02-08,Large
+MERCH_01616,Merchant_1616,Travel,France,2024-09-14,Small
+MERCH_01617,Merchant_1617,E-commerce,India,2024-03-11,Small
+MERCH_01618,Merchant_1618,Travel,India,2024-04-02,Large
+MERCH_01619,Merchant_1619,Entertainment,USA,2024-06-08,Small
+MERCH_01620,Merchant_1620,Digital Services,Germany,2024-08-25,Small
+MERCH_01621,Merchant_1621,Transportation,USA,2024-10-18,Small
+MERCH_01622,Merchant_1622,E-commerce,Germany,2024-04-02,Small
+MERCH_01623,Merchant_1623,Healthcare,USA,2024-03-05,Medium
+MERCH_01624,Merchant_1624,Travel,UK,2024-05-11,Small
+MERCH_01625,Merchant_1625,Education,Canada,2024-09-09,Large
+MERCH_01626,Merchant_1626,Travel,France,2024-07-26,Small
+MERCH_01627,Merchant_1627,Food & Dining,France,2024-10-09,Small
+MERCH_01628,Merchant_1628,Healthcare,France,2024-08-04,Small
+MERCH_01629,Merchant_1629,Transportation,Germany,2024-08-13,Small
+MERCH_01630,Merchant_1630,E-commerce,Canada,2024-01-22,Small
+MERCH_01631,Merchant_1631,Travel,India,2024-08-21,Enterprise
+MERCH_01632,Merchant_1632,Digital Services,France,2024-02-22,Medium
+MERCH_01633,Merchant_1633,Transportation,France,2024-07-19,Small
+MERCH_01634,Merchant_1634,Retail,Brazil,2024-08-14,Small
+MERCH_01635,Merchant_1635,Food & Dining,USA,2024-02-17,Large
+MERCH_01636,Merchant_1636,Travel,UK,2024-05-17,Medium
+MERCH_01637,Merchant_1637,Healthcare,Germany,2024-09-22,Medium
+MERCH_01638,Merchant_1638,Education,USA,2024-10-19,Large
+MERCH_01639,Merchant_1639,Travel,France,2024-07-02,Small
+MERCH_01640,Merchant_1640,E-commerce,USA,2024-08-23,Small
+MERCH_01641,Merchant_1641,Transportation,UK,2024-03-13,Small
+MERCH_01642,Merchant_1642,Education,France,2024-06-19,Medium
+MERCH_01643,Merchant_1643,Utilities,UK,2024-08-21,Small
+MERCH_01644,Merchant_1644,Digital Services,USA,2024-10-01,Medium
+MERCH_01645,Merchant_1645,Transportation,India,2024-07-08,Small
+MERCH_01646,Merchant_1646,Healthcare,France,2024-03-29,Small
+MERCH_01647,Merchant_1647,Travel,USA,2024-04-08,Enterprise
+MERCH_01648,Merchant_1648,Travel,USA,2024-06-10,Medium
+MERCH_01649,Merchant_1649,E-commerce,France,2024-03-18,Small
+MERCH_01650,Merchant_1650,Education,UK,2024-09-14,Small
+MERCH_01651,Merchant_1651,Retail,Canada,2024-01-29,Medium
+MERCH_01652,Merchant_1652,Healthcare,USA,2024-01-14,Small
+MERCH_01653,Merchant_1653,Healthcare,India,2024-04-06,Medium
+MERCH_01654,Merchant_1654,Healthcare,USA,2024-05-29,Small
+MERCH_01655,Merchant_1655,Transportation,USA,2024-02-05,Small
+MERCH_01656,Merchant_1656,Utilities,UAE,2024-04-24,Medium
+MERCH_01657,Merchant_1657,Utilities,India,2024-08-14,Enterprise
+MERCH_01658,Merchant_1658,E-commerce,Singapore,2024-05-02,Medium
+MERCH_01659,Merchant_1659,Transportation,USA,2024-05-08,Small
+MERCH_01660,Merchant_1660,Education,UK,2024-06-23,Small
+MERCH_01661,Merchant_1661,Entertainment,Brazil,2024-05-17,Medium
+MERCH_01662,Merchant_1662,Education,India,2024-03-06,Medium
+MERCH_01663,Merchant_1663,Education,USA,2024-05-26,Medium
+MERCH_01664,Merchant_1664,Food & Dining,India,2024-09-01,Medium
+MERCH_01665,Merchant_1665,Food & Dining,France,2024-02-19,Small
+MERCH_01666,Merchant_1666,Healthcare,India,2024-02-03,Enterprise
+MERCH_01667,Merchant_1667,Food & Dining,UK,2024-06-26,Small
+MERCH_01668,Merchant_1668,Transportation,Canada,2024-06-10,Medium
+MERCH_01669,Merchant_1669,E-commerce,India,2024-09-22,Large
+MERCH_01670,Merchant_1670,Entertainment,Canada,2024-04-05,Medium
+MERCH_01671,Merchant_1671,E-commerce,UK,2024-04-02,Small
+MERCH_01672,Merchant_1672,Education,Germany,2024-02-03,Small
+MERCH_01673,Merchant_1673,Transportation,UK,2024-10-12,Small
+MERCH_01674,Merchant_1674,Food & Dining,UK,2024-02-27,Small
+MERCH_01675,Merchant_1675,Food & Dining,Germany,2024-10-16,Medium
+MERCH_01676,Merchant_1676,Travel,USA,2024-06-19,Small
+MERCH_01677,Merchant_1677,Retail,Canada,2024-02-13,Small
+MERCH_01678,Merchant_1678,E-commerce,Germany,2024-08-15,Small
+MERCH_01679,Merchant_1679,Utilities,India,2024-02-17,Large
+MERCH_01680,Merchant_1680,Retail,Brazil,2024-01-01,Small
+MERCH_01681,Merchant_1681,Travel,Canada,2024-08-18,Small
+MERCH_01682,Merchant_1682,Food & Dining,Canada,2024-01-14,Small
+MERCH_01683,Merchant_1683,Food & Dining,USA,2024-08-10,Large
+MERCH_01684,Merchant_1684,Utilities,USA,2024-08-21,Medium
+MERCH_01685,Merchant_1685,Transportation,UK,2024-08-29,Medium
+MERCH_01686,Merchant_1686,Digital Services,USA,2024-08-06,Small
+MERCH_01687,Merchant_1687,Entertainment,Brazil,2024-04-11,Medium
+MERCH_01688,Merchant_1688,Education,UK,2024-02-29,Small
+MERCH_01689,Merchant_1689,Retail,USA,2024-04-17,Small
+MERCH_01690,Merchant_1690,Education,USA,2024-02-19,Small
+MERCH_01691,Merchant_1691,Utilities,Germany,2024-07-19,Medium
+MERCH_01692,Merchant_1692,Digital Services,USA,2024-06-01,Large
+MERCH_01693,Merchant_1693,Utilities,USA,2024-06-09,Enterprise
+MERCH_01694,Merchant_1694,Utilities,Canada,2024-05-04,Small
+MERCH_01695,Merchant_1695,E-commerce,USA,2024-10-10,Small
+MERCH_01696,Merchant_1696,Transportation,UK,2024-04-10,Small
+MERCH_01697,Merchant_1697,Healthcare,USA,2024-04-08,Medium
+MERCH_01698,Merchant_1698,Entertainment,Canada,2024-07-23,Large
+MERCH_01699,Merchant_1699,Education,Singapore,2024-05-31,Medium
+MERCH_01700,Merchant_1700,E-commerce,Brazil,2024-03-23,Small
+MERCH_01701,Merchant_1701,Transportation,Singapore,2024-06-27,Small
+MERCH_01702,Merchant_1702,Utilities,USA,2024-06-14,Small
+MERCH_01703,Merchant_1703,Education,India,2024-01-05,Small
+MERCH_01704,Merchant_1704,Entertainment,USA,2024-04-24,Small
+MERCH_01705,Merchant_1705,Entertainment,France,2024-07-03,Large
+MERCH_01706,Merchant_1706,Education,USA,2024-05-05,Medium
+MERCH_01707,Merchant_1707,Utilities,Brazil,2024-05-04,Small
+MERCH_01708,Merchant_1708,Education,USA,2024-03-30,Enterprise
+MERCH_01709,Merchant_1709,Education,Germany,2024-02-15,Small
+MERCH_01710,Merchant_1710,Healthcare,France,2024-01-17,Enterprise
+MERCH_01711,Merchant_1711,Entertainment,USA,2024-02-21,Large
+MERCH_01712,Merchant_1712,Utilities,India,2024-03-23,Medium
+MERCH_01713,Merchant_1713,Digital Services,India,2024-06-21,Enterprise
+MERCH_01714,Merchant_1714,E-commerce,USA,2024-06-02,Enterprise
+MERCH_01715,Merchant_1715,Utilities,USA,2024-07-25,Small
+MERCH_01716,Merchant_1716,Education,USA,2024-08-18,Small
+MERCH_01717,Merchant_1717,Healthcare,USA,2024-06-16,Small
+MERCH_01718,Merchant_1718,Healthcare,USA,2024-02-05,Enterprise
+MERCH_01719,Merchant_1719,Education,Germany,2024-05-29,Medium
+MERCH_01720,Merchant_1720,Retail,Australia,2024-10-23,Large
+MERCH_01721,Merchant_1721,E-commerce,Singapore,2024-07-02,Small
+MERCH_01722,Merchant_1722,Healthcare,UK,2024-10-19,Medium
+MERCH_01723,Merchant_1723,Food & Dining,USA,2024-08-17,Medium
+MERCH_01724,Merchant_1724,Retail,USA,2024-08-29,Small
+MERCH_01725,Merchant_1725,Education,USA,2024-01-22,Large
+MERCH_01726,Merchant_1726,Healthcare,UAE,2024-04-29,Large
+MERCH_01727,Merchant_1727,Transportation,Canada,2024-02-18,Medium
+MERCH_01728,Merchant_1728,Transportation,USA,2024-09-02,Small
+MERCH_01729,Merchant_1729,E-commerce,USA,2024-01-01,Small
+MERCH_01730,Merchant_1730,Education,USA,2024-07-03,Small
+MERCH_01731,Merchant_1731,Utilities,Germany,2024-08-07,Small
+MERCH_01732,Merchant_1732,Entertainment,UK,2024-09-29,Small
+MERCH_01733,Merchant_1733,Travel,Germany,2024-03-05,Small
+MERCH_01734,Merchant_1734,Utilities,UK,2024-07-08,Medium
+MERCH_01735,Merchant_1735,Digital Services,India,2024-10-09,Small
+MERCH_01736,Merchant_1736,Entertainment,India,2024-04-10,Large
+MERCH_01737,Merchant_1737,Food & Dining,France,2024-04-05,Small
+MERCH_01738,Merchant_1738,Retail,Singapore,2024-01-22,Enterprise
+MERCH_01739,Merchant_1739,Retail,USA,2024-02-04,Small
+MERCH_01740,Merchant_1740,Retail,USA,2024-05-16,Large
+MERCH_01741,Merchant_1741,E-commerce,UK,2024-04-20,Small
+MERCH_01742,Merchant_1742,Transportation,USA,2024-06-17,Small
+MERCH_01743,Merchant_1743,Healthcare,Singapore,2024-06-05,Large
+MERCH_01744,Merchant_1744,Education,Germany,2024-07-08,Small
+MERCH_01745,Merchant_1745,Digital Services,UK,2024-07-17,Small
+MERCH_01746,Merchant_1746,Retail,USA,2024-04-08,Medium
+MERCH_01747,Merchant_1747,Entertainment,UK,2024-07-21,Small
+MERCH_01748,Merchant_1748,Travel,India,2024-08-29,Medium
+MERCH_01749,Merchant_1749,Retail,USA,2024-09-18,Medium
+MERCH_01750,Merchant_1750,Education,USA,2024-09-20,Medium
+MERCH_01751,Merchant_1751,Travel,France,2024-04-27,Large
+MERCH_01752,Merchant_1752,Food & Dining,Brazil,2024-08-11,Enterprise
+MERCH_01753,Merchant_1753,Healthcare,USA,2024-09-13,Medium
+MERCH_01754,Merchant_1754,Education,UAE,2024-08-09,Small
+MERCH_01755,Merchant_1755,Digital Services,Brazil,2024-04-30,Medium
+MERCH_01756,Merchant_1756,Education,France,2024-08-02,Small
+MERCH_01757,Merchant_1757,Healthcare,Canada,2024-06-02,Large
+MERCH_01758,Merchant_1758,Utilities,USA,2024-06-08,Medium
+MERCH_01759,Merchant_1759,Travel,USA,2024-06-07,Small
+MERCH_01760,Merchant_1760,Digital Services,USA,2024-10-23,Small
+MERCH_01761,Merchant_1761,Travel,India,2024-09-16,Small
+MERCH_01762,Merchant_1762,Retail,Brazil,2024-02-29,Small
+MERCH_01763,Merchant_1763,Transportation,USA,2024-01-16,Small
+MERCH_01764,Merchant_1764,Utilities,Australia,2024-07-25,Enterprise
+MERCH_01765,Merchant_1765,Travel,USA,2024-04-09,Small
+MERCH_01766,Merchant_1766,Transportation,USA,2024-03-08,Small
+MERCH_01767,Merchant_1767,Transportation,USA,2024-07-30,Medium
+MERCH_01768,Merchant_1768,Education,UK,2024-08-17,Large
+MERCH_01769,Merchant_1769,Digital Services,Brazil,2024-04-08,Medium
+MERCH_01770,Merchant_1770,Travel,USA,2024-10-16,Medium
+MERCH_01771,Merchant_1771,E-commerce,USA,2024-03-12,Medium
+MERCH_01772,Merchant_1772,Transportation,Brazil,2024-01-14,Small
+MERCH_01773,Merchant_1773,Food & Dining,India,2024-07-12,Large
+MERCH_01774,Merchant_1774,Digital Services,Germany,2024-01-12,Small
+MERCH_01775,Merchant_1775,Digital Services,USA,2024-05-20,Medium
+MERCH_01776,Merchant_1776,Healthcare,India,2024-03-12,Small
+MERCH_01777,Merchant_1777,Retail,USA,2024-10-24,Large
+MERCH_01778,Merchant_1778,Entertainment,Canada,2024-05-30,Small
+MERCH_01779,Merchant_1779,Digital Services,USA,2024-03-16,Small
+MERCH_01780,Merchant_1780,Education,Brazil,2024-03-12,Small
+MERCH_01781,Merchant_1781,E-commerce,USA,2024-02-09,Small
+MERCH_01782,Merchant_1782,Food & Dining,USA,2024-02-15,Medium
+MERCH_01783,Merchant_1783,Healthcare,UK,2024-03-30,Large
+MERCH_01784,Merchant_1784,E-commerce,USA,2024-05-16,Medium
+MERCH_01785,Merchant_1785,Travel,UK,2024-08-16,Small
+MERCH_01786,Merchant_1786,Digital Services,Singapore,2024-05-14,Small
+MERCH_01787,Merchant_1787,Retail,USA,2024-04-18,Small
+MERCH_01788,Merchant_1788,Digital Services,UK,2024-06-23,Small
+MERCH_01789,Merchant_1789,Transportation,USA,2024-01-26,Small
+MERCH_01790,Merchant_1790,Retail,Brazil,2024-08-08,Small
+MERCH_01791,Merchant_1791,Retail,Singapore,2024-09-04,Small
+MERCH_01792,Merchant_1792,Travel,France,2024-10-04,Small
+MERCH_01793,Merchant_1793,Digital Services,Australia,2024-03-27,Small
+MERCH_01794,Merchant_1794,Entertainment,USA,2024-01-31,Small
+MERCH_01795,Merchant_1795,Travel,USA,2024-10-21,Large
+MERCH_01796,Merchant_1796,Utilities,UK,2024-10-23,Large
+MERCH_01797,Merchant_1797,Healthcare,USA,2024-04-16,Small
+MERCH_01798,Merchant_1798,Education,USA,2024-09-14,Small
+MERCH_01799,Merchant_1799,Food & Dining,USA,2024-09-02,Small
+MERCH_01800,Merchant_1800,Utilities,India,2024-03-09,Medium
+MERCH_01801,Merchant_1801,Transportation,Germany,2024-03-01,Small
+MERCH_01802,Merchant_1802,Healthcare,USA,2024-02-18,Medium
+MERCH_01803,Merchant_1803,Transportation,UK,2024-03-11,Large
+MERCH_01804,Merchant_1804,Healthcare,Germany,2024-01-10,Small
+MERCH_01805,Merchant_1805,Retail,USA,2024-04-20,Large
+MERCH_01806,Merchant_1806,Education,Brazil,2024-09-18,Small
+MERCH_01807,Merchant_1807,Transportation,UAE,2024-03-18,Enterprise
+MERCH_01808,Merchant_1808,E-commerce,Singapore,2024-09-15,Large
+MERCH_01809,Merchant_1809,Transportation,USA,2024-04-08,Small
+MERCH_01810,Merchant_1810,Healthcare,UK,2024-01-21,Small
+MERCH_01811,Merchant_1811,Transportation,Canada,2024-02-23,Enterprise
+MERCH_01812,Merchant_1812,Digital Services,France,2024-07-07,Medium
+MERCH_01813,Merchant_1813,Education,UK,2024-01-02,Large
+MERCH_01814,Merchant_1814,Retail,Germany,2024-07-07,Small
+MERCH_01815,Merchant_1815,Digital Services,USA,2024-06-27,Small
+MERCH_01816,Merchant_1816,Healthcare,Canada,2024-06-01,Large
+MERCH_01817,Merchant_1817,Education,USA,2024-09-07,Small
+MERCH_01818,Merchant_1818,Utilities,Singapore,2024-08-06,Large
+MERCH_01819,Merchant_1819,Education,India,2024-02-10,Medium
+MERCH_01820,Merchant_1820,Digital Services,Australia,2024-08-10,Large
+MERCH_01821,Merchant_1821,Healthcare,Brazil,2024-10-13,Medium
+MERCH_01822,Merchant_1822,Utilities,Canada,2024-02-01,Medium
+MERCH_01823,Merchant_1823,Food & Dining,USA,2024-07-17,Small
+MERCH_01824,Merchant_1824,Entertainment,UAE,2024-09-19,Small
+MERCH_01825,Merchant_1825,Utilities,UK,2024-01-18,Small
+MERCH_01826,Merchant_1826,Entertainment,USA,2024-05-01,Small
+MERCH_01827,Merchant_1827,Transportation,USA,2024-01-20,Medium
+MERCH_01828,Merchant_1828,E-commerce,Germany,2024-06-07,Small
+MERCH_01829,Merchant_1829,Entertainment,UAE,2024-01-16,Large
+MERCH_01830,Merchant_1830,Food & Dining,Germany,2024-01-04,Large
+MERCH_01831,Merchant_1831,Retail,Germany,2024-06-16,Large
+MERCH_01832,Merchant_1832,Food & Dining,UK,2024-05-18,Enterprise
+MERCH_01833,Merchant_1833,Retail,USA,2024-08-03,Small
+MERCH_01834,Merchant_1834,Healthcare,UK,2024-09-23,Small
+MERCH_01835,Merchant_1835,Healthcare,UK,2024-01-09,Medium
+MERCH_01836,Merchant_1836,Travel,Canada,2024-02-10,Small
+MERCH_01837,Merchant_1837,Transportation,Canada,2024-04-12,Large
+MERCH_01838,Merchant_1838,Food & Dining,UK,2024-03-01,Small
+MERCH_01839,Merchant_1839,Transportation,India,2024-05-20,Small
+MERCH_01840,Merchant_1840,Food & Dining,Canada,2024-04-18,Enterprise
+MERCH_01841,Merchant_1841,Healthcare,India,2024-05-03,Small
+MERCH_01842,Merchant_1842,Transportation,Brazil,2024-08-01,Small
+MERCH_01843,Merchant_1843,E-commerce,France,2024-01-01,Small
+MERCH_01844,Merchant_1844,Utilities,Singapore,2024-07-02,Medium
+MERCH_01845,Merchant_1845,Healthcare,USA,2024-09-09,Small
+MERCH_01846,Merchant_1846,Entertainment,France,2024-05-14,Small
+MERCH_01847,Merchant_1847,Healthcare,USA,2024-04-10,Medium
+MERCH_01848,Merchant_1848,Utilities,UK,2024-04-05,Large
+MERCH_01849,Merchant_1849,Travel,Australia,2024-02-22,Medium
+MERCH_01850,Merchant_1850,E-commerce,Canada,2024-02-25,Small
+MERCH_01851,Merchant_1851,Utilities,Germany,2024-03-02,Small
+MERCH_01852,Merchant_1852,Travel,Canada,2024-06-25,Small
+MERCH_01853,Merchant_1853,Healthcare,USA,2024-05-16,Small
+MERCH_01854,Merchant_1854,Entertainment,France,2024-10-21,Medium
+MERCH_01855,Merchant_1855,Education,USA,2024-06-19,Enterprise
+MERCH_01856,Merchant_1856,Travel,India,2024-03-07,Medium
+MERCH_01857,Merchant_1857,Education,USA,2024-10-22,Small
+MERCH_01858,Merchant_1858,E-commerce,Singapore,2024-02-11,Small
+MERCH_01859,Merchant_1859,Food & Dining,UK,2024-08-30,Small
+MERCH_01860,Merchant_1860,Transportation,UK,2024-02-25,Medium
+MERCH_01861,Merchant_1861,Healthcare,Canada,2024-07-13,Large
+MERCH_01862,Merchant_1862,Transportation,UAE,2024-01-25,Enterprise
+MERCH_01863,Merchant_1863,Transportation,UK,2024-02-04,Enterprise
+MERCH_01864,Merchant_1864,Retail,Australia,2024-04-30,Enterprise
+MERCH_01865,Merchant_1865,Retail,Canada,2024-07-13,Medium
+MERCH_01866,Merchant_1866,Education,USA,2024-05-29,Small
+MERCH_01867,Merchant_1867,Education,Australia,2024-02-03,Small
+MERCH_01868,Merchant_1868,Transportation,Germany,2024-09-07,Large
+MERCH_01869,Merchant_1869,E-commerce,USA,2024-08-01,Large
+MERCH_01870,Merchant_1870,Utilities,Canada,2024-06-11,Small
+MERCH_01871,Merchant_1871,Education,Australia,2024-10-18,Medium
+MERCH_01872,Merchant_1872,E-commerce,USA,2024-03-06,Large
+MERCH_01873,Merchant_1873,Education,USA,2024-01-10,Small
+MERCH_01874,Merchant_1874,E-commerce,USA,2024-07-07,Small
+MERCH_01875,Merchant_1875,Retail,Canada,2024-10-20,Large
+MERCH_01876,Merchant_1876,Travel,USA,2024-06-03,Small
+MERCH_01877,Merchant_1877,Healthcare,USA,2024-10-04,Small
+MERCH_01878,Merchant_1878,Entertainment,USA,2024-04-14,Small
+MERCH_01879,Merchant_1879,Food & Dining,USA,2024-07-22,Small
+MERCH_01880,Merchant_1880,Transportation,India,2024-01-13,Medium
+MERCH_01881,Merchant_1881,Retail,UK,2024-10-18,Small
+MERCH_01882,Merchant_1882,Utilities,USA,2024-01-14,Small
+MERCH_01883,Merchant_1883,Retail,USA,2024-02-08,Large
+MERCH_01884,Merchant_1884,Education,USA,2024-08-03,Medium
+MERCH_01885,Merchant_1885,Travel,USA,2024-09-23,Medium
+MERCH_01886,Merchant_1886,Education,Brazil,2024-01-07,Medium
+MERCH_01887,Merchant_1887,Digital Services,USA,2024-02-24,Small
+MERCH_01888,Merchant_1888,Food & Dining,USA,2024-02-12,Small
+MERCH_01889,Merchant_1889,Education,Canada,2024-06-23,Large
+MERCH_01890,Merchant_1890,Transportation,USA,2024-04-20,Small
+MERCH_01891,Merchant_1891,Utilities,Singapore,2024-08-01,Medium
+MERCH_01892,Merchant_1892,Education,USA,2024-01-10,Large
+MERCH_01893,Merchant_1893,Education,UAE,2024-07-16,Medium
+MERCH_01894,Merchant_1894,Food & Dining,USA,2024-05-29,Small
+MERCH_01895,Merchant_1895,Education,USA,2024-04-17,Small
+MERCH_01896,Merchant_1896,Retail,Germany,2024-06-02,Medium
+MERCH_01897,Merchant_1897,Healthcare,USA,2024-07-05,Medium
+MERCH_01898,Merchant_1898,Healthcare,Brazil,2024-04-10,Medium
+MERCH_01899,Merchant_1899,E-commerce,Australia,2024-05-16,Small
+MERCH_01900,Merchant_1900,Entertainment,UAE,2024-09-09,Small
+MERCH_01901,Merchant_1901,Transportation,Canada,2024-04-16,Large
+MERCH_01902,Merchant_1902,Digital Services,Brazil,2024-03-05,Medium
+MERCH_01903,Merchant_1903,E-commerce,Canada,2024-01-31,Small
+MERCH_01904,Merchant_1904,Digital Services,Brazil,2024-01-02,Medium
+MERCH_01905,Merchant_1905,Food & Dining,Brazil,2024-10-25,Medium
+MERCH_01906,Merchant_1906,Healthcare,France,2024-07-30,Medium
+MERCH_01907,Merchant_1907,Travel,Singapore,2024-01-18,Large
+MERCH_01908,Merchant_1908,Food & Dining,UK,2024-02-29,Medium
+MERCH_01909,Merchant_1909,E-commerce,France,2024-07-09,Enterprise
+MERCH_01910,Merchant_1910,Food & Dining,USA,2024-04-10,Large
+MERCH_01911,Merchant_1911,Retail,USA,2024-06-20,Small
+MERCH_01912,Merchant_1912,Food & Dining,UK,2024-04-13,Small
+MERCH_01913,Merchant_1913,Healthcare,Germany,2024-01-15,Small
+MERCH_01914,Merchant_1914,Retail,India,2024-07-02,Small
+MERCH_01915,Merchant_1915,Digital Services,Canada,2024-04-22,Small
+MERCH_01916,Merchant_1916,Entertainment,UK,2024-04-01,Small
+MERCH_01917,Merchant_1917,Travel,Germany,2024-06-25,Small
+MERCH_01918,Merchant_1918,Utilities,UAE,2024-08-09,Small
+MERCH_01919,Merchant_1919,Education,USA,2024-03-29,Medium
+MERCH_01920,Merchant_1920,Digital Services,Singapore,2024-06-06,Small
+MERCH_01921,Merchant_1921,Transportation,UK,2024-10-14,Small
+MERCH_01922,Merchant_1922,Digital Services,France,2024-10-06,Small
+MERCH_01923,Merchant_1923,Digital Services,USA,2024-10-14,Large
+MERCH_01924,Merchant_1924,Retail,USA,2024-10-03,Large
+MERCH_01925,Merchant_1925,Education,Australia,2024-01-09,Small
+MERCH_01926,Merchant_1926,Education,USA,2024-06-02,Medium
+MERCH_01927,Merchant_1927,Retail,Canada,2024-09-10,Small
+MERCH_01928,Merchant_1928,Transportation,Canada,2024-01-23,Small
+MERCH_01929,Merchant_1929,Food & Dining,Singapore,2024-05-15,Medium
+MERCH_01930,Merchant_1930,E-commerce,USA,2024-07-29,Small
+MERCH_01931,Merchant_1931,Healthcare,Germany,2024-05-21,Small
+MERCH_01932,Merchant_1932,E-commerce,Germany,2024-10-09,Small
+MERCH_01933,Merchant_1933,Utilities,France,2024-06-18,Large
+MERCH_01934,Merchant_1934,Digital Services,USA,2024-06-14,Small
+MERCH_01935,Merchant_1935,Transportation,USA,2024-07-01,Medium
+MERCH_01936,Merchant_1936,E-commerce,USA,2024-02-19,Small
+MERCH_01937,Merchant_1937,Retail,Canada,2024-07-26,Small
+MERCH_01938,Merchant_1938,Travel,USA,2024-10-18,Small
+MERCH_01939,Merchant_1939,Retail,Brazil,2024-04-17,Small
+MERCH_01940,Merchant_1940,Utilities,UK,2024-03-24,Small
+MERCH_01941,Merchant_1941,Transportation,UK,2024-05-24,Small
+MERCH_01942,Merchant_1942,Digital Services,UAE,2024-01-17,Small
+MERCH_01943,Merchant_1943,Food & Dining,USA,2024-06-19,Large
+MERCH_01944,Merchant_1944,Healthcare,USA,2024-08-18,Medium
+MERCH_01945,Merchant_1945,Education,USA,2024-05-28,Enterprise
+MERCH_01946,Merchant_1946,Education,Singapore,2024-02-21,Small
+MERCH_01947,Merchant_1947,Entertainment,Australia,2024-02-11,Medium
+MERCH_01948,Merchant_1948,Digital Services,Germany,2024-10-16,Large
+MERCH_01949,Merchant_1949,Transportation,Australia,2024-04-14,Small
+MERCH_01950,Merchant_1950,Digital Services,France,2024-07-08,Large
+MERCH_01951,Merchant_1951,Retail,USA,2024-04-11,Small
+MERCH_01952,Merchant_1952,Education,UK,2024-10-17,Medium
+MERCH_01953,Merchant_1953,Education,Canada,2024-02-20,Medium
+MERCH_01954,Merchant_1954,Entertainment,USA,2024-01-01,Medium
+MERCH_01955,Merchant_1955,Education,USA,2024-04-30,Small
+MERCH_01956,Merchant_1956,Entertainment,UK,2024-09-19,Small
+MERCH_01957,Merchant_1957,Education,USA,2024-10-23,Small
+MERCH_01958,Merchant_1958,Utilities,USA,2024-02-07,Small
+MERCH_01959,Merchant_1959,Entertainment,France,2024-07-21,Medium
+MERCH_01960,Merchant_1960,Digital Services,Canada,2024-07-23,Small
+MERCH_01961,Merchant_1961,Travel,France,2024-09-11,Small
+MERCH_01962,Merchant_1962,Digital Services,Canada,2024-08-13,Large
+MERCH_01963,Merchant_1963,Utilities,Germany,2024-01-14,Medium
+MERCH_01964,Merchant_1964,Travel,UK,2024-07-03,Small
+MERCH_01965,Merchant_1965,Retail,UK,2024-03-20,Medium
+MERCH_01966,Merchant_1966,Education,UK,2024-02-07,Medium
+MERCH_01967,Merchant_1967,Utilities,UAE,2024-09-16,Small
+MERCH_01968,Merchant_1968,Transportation,USA,2024-06-19,Small
+MERCH_01969,Merchant_1969,Healthcare,Canada,2024-09-15,Medium
+MERCH_01970,Merchant_1970,Healthcare,USA,2024-07-12,Small
+MERCH_01971,Merchant_1971,Utilities,France,2024-09-28,Large
+MERCH_01972,Merchant_1972,Transportation,Australia,2024-01-22,Large
+MERCH_01973,Merchant_1973,E-commerce,India,2024-05-13,Large
+MERCH_01974,Merchant_1974,Travel,USA,2024-04-06,Small
+MERCH_01975,Merchant_1975,Food & Dining,UK,2024-05-13,Enterprise
+MERCH_01976,Merchant_1976,Education,Brazil,2024-03-14,Medium
+MERCH_01977,Merchant_1977,Healthcare,USA,2024-01-08,Small
+MERCH_01978,Merchant_1978,Entertainment,Germany,2024-01-17,Medium
+MERCH_01979,Merchant_1979,Healthcare,Canada,2024-09-20,Medium
+MERCH_01980,Merchant_1980,Utilities,Brazil,2024-09-28,Small
+MERCH_01981,Merchant_1981,Utilities,UAE,2024-03-14,Medium
+MERCH_01982,Merchant_1982,E-commerce,Germany,2024-06-16,Large
+MERCH_01983,Merchant_1983,Retail,India,2024-10-03,Large
+MERCH_01984,Merchant_1984,Food & Dining,Germany,2024-06-15,Medium
+MERCH_01985,Merchant_1985,E-commerce,Australia,2024-09-04,Small
+MERCH_01986,Merchant_1986,Digital Services,UK,2024-09-20,Large
+MERCH_01987,Merchant_1987,Retail,India,2024-04-12,Small
+MERCH_01988,Merchant_1988,Transportation,USA,2024-10-05,Enterprise
+MERCH_01989,Merchant_1989,E-commerce,UK,2024-01-24,Large
+MERCH_01990,Merchant_1990,Entertainment,UK,2024-04-08,Large
+MERCH_01991,Merchant_1991,Travel,India,2024-09-01,Large
+MERCH_01992,Merchant_1992,Entertainment,France,2024-01-13,Medium
+MERCH_01993,Merchant_1993,Food & Dining,UK,2024-04-19,Small
+MERCH_01994,Merchant_1994,Healthcare,UK,2024-08-19,Small
+MERCH_01995,Merchant_1995,Healthcare,USA,2024-08-29,Small
+MERCH_01996,Merchant_1996,E-commerce,Brazil,2024-04-15,Small
+MERCH_01997,Merchant_1997,Education,USA,2024-02-12,Medium
+MERCH_01998,Merchant_1998,Retail,UAE,2024-03-19,Medium
+MERCH_01999,Merchant_1999,Travel,Canada,2024-01-27,Small
+MERCH_02000,Merchant_2000,E-commerce,USA,2024-07-07,Large
