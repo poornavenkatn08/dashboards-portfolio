@@ -28,7 +28,7 @@ This Tableau dashboard analyzes 96,477 customers and 100,000+ orders from a Braz
 | Champion Customers | 6,160 (VIP program candidates) |
 
 🖼️ **Preview:**  
-![E-Commerce Dashboard](https://github.com/poornavenkatn08/dashboards-portfolio/tree/main/04_ecommerce-customer-analytics/screenshots)
+![E-Commerce Dashboard](https://raw.githubusercontent.com/poornavenkatn08/dashboards-portfolio/main/04_ecommerce-customer-analytics/screenshots/ecommerce_dashboard.png)
 
 🔗 **Live Demo:**  
 [View on Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/E-CommerceCustomerAnalyticsDashboard/Dashboard1)
