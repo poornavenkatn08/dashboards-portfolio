@@ -37,7 +37,7 @@ Designed a 4-page interactive Tableau dashboard analyzing churn patterns for Rav
 | Best Model | Random Forest (85.73% AUC, 92.31% Precision) |
 
 🖼️ **Preview:**  
-![SaaS Churn Dashboard - Executive Overview](https://raw.githubusercontent.com/poornavenkatn08/dashboards-portfolio/main/05_saas-churn-analytics/screenshots/dashboard_1_executive_overview.png)
+![SaaS Churn Dashboard - Executive Overview](https://raw.githubusercontent.com/poornavenkatn08/dashboards-portfolio/main/05_Saas_Churn_Analytics/Screenshots/Dashboard_1_Executive_Overview.png)
 
 🔗 **Live Demo:**  
 [View on Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/SaaSCustomerChurnAnalyticsDashboard/Homepage)
