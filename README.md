@@ -4,6 +4,50 @@ Welcome to my portfolio of interactive dashboards created using **Tableau** and 
 
 ---
 
+## 🔴 Tableau Dashboard: SaaS Customer Churn Analytics
+
+📁 File: `SaaS Customer Churn Analytics Dashboard.twbx`  
+📊 Dataset: `master_engineered.csv`, `at_risk_customers.csv`, `feature_importance.csv`, `model_comparison.csv`
+
+🔍 **Description:**  
+Designed a 4-page interactive Tableau dashboard analyzing churn patterns for RavenStack, an AI SaaS startup with 500 accounts across 5 relational tables (33,000+ records). Integrated ML prediction outputs (Random Forest, 85.73% AUC) to create actionable at-risk customer rankings and revenue impact visualizations.
+
+✨ **Key Features:**
+- Executive overview with 5 KPI cards (accounts, churn rate, MRR lost, satisfaction, tenure)
+- Customer segmentation heatmap (Industry × Plan Tier churn rates)
+- Treemap visualizing $1.2M MRR lost by churn reason
+- Behavioral deep dive comparing churned vs retained across 6 metrics
+- Engagement score distribution showing clear churn pattern at low engagement
+- ML-powered at-risk customer table ranked by churn probability
+- Risk level distribution with MRR at risk by severity
+- Top 15 feature importance chart from Random Forest model
+- Interactive cross-filters by Plan Tier, Industry, and Churn Label
+
+📈 **Key Insights:**
+| Insight | Value |
+|---------|-------|
+| Total Accounts Analyzed | 500 (across 5 industries) |
+| Overall Churn Rate | 22.7% (110 accounts lost) |
+| Total MRR Lost | $1.2M |
+| Worst Segment | DevTools Enterprise (45.5% churn) |
+| Best Acquisition Channel | Partner referrals (12.8% churn) |
+| Worst Acquisition Channel | Event referrals (34.5% churn) |
+| #1 Churn Driver (ML) | Product error rate |
+| Active Accounts at Medium Risk | 123 ($1.1M MRR at risk) |
+| Best Model | Random Forest (85.73% AUC, 92.31% Precision) |
+
+🖼️ **Preview:**  
+![SaaS Churn Dashboard - Executive Overview](https://raw.githubusercontent.com/poornavenkatn08/dashboards-portfolio/main/05_saas-churn-analytics/screenshots/dashboard_1_executive_overview.png)
+
+🔗 **Live Demo:**  
+[View on Tableau Public](https://public.tableau.com/app/profile/poorna.venkat.neelakantam/viz/SaaSCustomerChurnAnalyticsDashboard/Homepage)
+
+🔗 **Related Work:**
+- [Python ML Analysis (Random Forest, XGBoost)](https://github.com/poornavenkatn08/Python_Pandas-Data-Analysis-Portfolio)
+- [SQL Queries (16 business queries across 5 tables)](https://github.com/poornavenkatn08/SQL-Projects)
+
+---
+
 ## 🟢 Tableau Dashboard: E-Commerce Customer Analytics
 
 📁 File: `E-Commerce Customer Analytics Dashboard.twbx`  
@@ -94,10 +138,12 @@ This Power BI dashboard visualizes healthcare data to identify disease distribut
 |-------|-------|
 | Data Cleaning & Transformation | Python, Pandas, Excel |
 | Customer Segmentation | RFM Analysis, K-Means Clustering |
+| Churn Prediction & ML Integration | Scikit-learn, XGBoost, Random Forest |
 | Dashboard Storytelling | Tableau, Power BI |
 | DAX for Calculated KPIs | Power BI |
-| Interactive Visualizations | Filters, Drill-through, Actions |
+| Interactive Visualizations | Filters, Drill-through, Actions, Cross-filters |
 | Data Preparation | SQL, Excel, CSV |
+| Multi-Source Dashboard Design | 4 CSV data sources in single Tableau workbook |
 
 ---
 
@@ -105,6 +151,7 @@ This Power BI dashboard visualizes healthcare data to identify disease distribut
 
 | Project | Tool | Dataset Size | Key Metric |
 |---------|------|--------------|------------|
+| SaaS Customer Churn Analytics | Tableau | 33K+ records (5 tables) | $1.2M MRR lost, 85.73% AUC prediction model |
 | E-Commerce Customer Analytics | Tableau | 100K+ orders | R$2.9M revenue opportunity |
 | Airbnb Market Trends | Tableau | 48K+ listings | Price optimization insights |
 | FinTech Payments Analytics | Tableau | 50K+ transactions | Payment trend analysis |
